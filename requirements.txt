@@ -1,0 +1,6 @@
+pandas
+python-Levenshtein
+fuzzywuzzy
+progressbar
+requests
+beautifulsoup4
