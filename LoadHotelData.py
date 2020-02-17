@@ -37,7 +37,7 @@ with open("hotels.csv", "w") as file:
         location = soup1.find_all("div", {"class": "hotel-card-dreamstyles__DistanceDiv-sc-1xoiocm-7 hpvmLI"})
         price = soup1.find_all("p", {"class": "hotel-card-dreamstyles__LeadRate-sc-1xoiocm-6 crEdua"})
 
-        writer.writerow(["Name", "City", "State", "Price per Night", "Is Pet Friendly"])
+        writer.writerow(["Name", "City", "State", "Price", "AllowsPets"])
         for i in range(len(name)):
             try:
                 h_name = name[i].text
