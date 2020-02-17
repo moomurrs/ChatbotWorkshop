@@ -1,7 +1,6 @@
 import csv
 import random
 import string
-import progressbar
 import requests
 from bs4 import BeautifulSoup
 
@@ -25,7 +24,8 @@ hotels = soup.find_all("a", {"class": "sc-19wo0ah-6 dpWPln"})
 # processing for all hotels
 with open("hotels.csv", "w") as file:
     writer = csv.writer(file, delimiter=",")
-    for hotel in progressbar.progressbar(hotels):
+    writer.writerow(["Name", "City", "State", "Price", "AllowsPets"])
+    for hotel in hotels:
         identity = hotel["id"]
         href = hotel["href"]
 
@@ -37,7 +37,6 @@ with open("hotels.csv", "w") as file:
         location = soup1.find_all("div", {"class": "hotel-card-dreamstyles__DistanceDiv-sc-1xoiocm-7 hpvmLI"})
         price = soup1.find_all("p", {"class": "hotel-card-dreamstyles__LeadRate-sc-1xoiocm-6 crEdua"})
 
-        writer.writerow(["Name", "City", "State", "Price", "AllowsPets"])
         for i in range(len(name)):
             try:
                 h_name = name[i].text
