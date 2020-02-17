@@ -37,10 +37,11 @@ with open('hotelData2.csv', 'w') as file:
         location = soup1.find_all("div", {"class":"hotel-card-dreamstyles__DistanceDiv-sc-1xoiocm-7 hpvmLI"})
         price = soup1.find_all("p", {"class": "hotel-card-dreamstyles__LeadRate-sc-1xoiocm-6 crEdua"})
 
-        writer.writerow(["Name", "Location", "Price per Night", "Is Pet Friendly"])
+        writer.writerow(["Name", "City", "State", "Price per Night", "Is Pet Friendly"])
         for i in range(len(name)):
             a = name[i].text.encode("utf8")
             b = location[i].text.encode("utf8")
+            c = location[i].text.encode("utf8")
             c = price[i].text.encode("utf8")
             d = random.choice((0, 1))
             writer.writerow([a, b, c, d])

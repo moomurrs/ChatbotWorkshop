@@ -1,7 +1,9 @@
 """Python hotel data reader created for CS Club @ IU, Brady Anderson 2020"""
 # module imports
 
-# import fuzzywuzzy thing
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+import csv
 
 # global configs
 """
@@ -11,7 +13,15 @@
 +================================+
 """
 
-def hotelData(location, price, priceKeyword, petFriendly):
+def hotelData(location, price, petFriendly, priceKeyword):
+    # parameter default settings
+    if(not priceKeyword):
+      priceKeyword = "around"
     # fuzzy wuzzy matching of string values
+    print(fuzz.token_sort_ratio("cowboys", "Dallas Cowboys"))
 
-    # price handeling
+    # price handeling price and priceKeyword based
+
+    # Price keyword -> around 
+
+hotelData("a", "a", "", 0)
