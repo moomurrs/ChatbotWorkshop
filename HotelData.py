@@ -16,8 +16,8 @@ from fuzzywuzzy import fuzz, process
 """
 
 df = pd.read_csv("hotels.csv")
-CITY_NAMES = list(df["City"])
-STATE_NAMES = list(df["State"])
+CITY_NAMES = [x.lower() for x in list(df["City"])]
+STATE_NAMES = [x.lower() for x in list(df["State"])]
 
 
 # all are set to None as default because we will likely have incomplete data

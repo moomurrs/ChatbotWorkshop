@@ -2,6 +2,7 @@
 
 import random
 import string
+import HotelData
 
 # global configs
 USER_TEMPLATE = "[USER]: "  # prefix for user input messages
@@ -12,11 +13,10 @@ STARTUP_MESSAGE = """
   Copyright CS Club @ IU, 2020
 +================================+
 """  # message to be printed at the begining of script execution
-LOCATION_KEYWORDS = ["Austin", "Houston"]
 PRICE_UNIT_KEYWORDS = ["dollars"]
 
 # global variables for use later
-USER_INPUT = {"price": None, "location": None, "pet_friendly": None}
+USER_INPUT = {"price": None, "city": None, "state": None, "pet_friendly": None}
 
 
 def respond(message):
@@ -36,10 +36,24 @@ def respond(message):
         except ValueError:
             pass
 
+        if word in HotelData.CITY_NAMES:
+            USER_INPUT["city"] = word
+
+        if word in HotelData.STATE_NAMES:
+            USER_INPUT["state"] = word
+
+    bot_response = "I understood that you're looking for a hotel that "
+    understood_attributes = []
+
     if USER_INPUT["price"]:
-        bot_response = "I understood that you're looking for a hotel that costs around {} dollars.".format(USER_INPUT["price"])
-    else:
-        bot_response = "I didn't understand that."
+        understood_attributes.append("costs around {} dollars".format(USER_INPUT["price"]))
+    if USER_INPUT["city"]:
+        understood_attributes.append("is in {}".format(USER_INPUT["city"].title()))
+    if USER_INPUT["state"]:
+        understood_attributes.append("is in {}".format(USER_INPUT["state"].upper()))
+
+    bot_response += ", ".join(understood_attributes) + "."
+    # TODO: Find a way to replace just the last ', ' with ', and '
 
     return bot_response
 
