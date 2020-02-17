@@ -3,6 +3,12 @@ from urllib import urlopen
 import time
 from bs4 import BeautifulSoup
 import csv
+import random
+
+# +================================+
+#  Hotel Data Webscraper
+#  Copyright CS Club @ IU, 2020
+# +================================+
 
 headers = {
     'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
@@ -36,7 +42,8 @@ with open('hotelData2.csv', 'w') as file:
             a = name[i].text.encode("utf8")
             b = location[i].text.encode("utf8")
             c = price[i].text.encode("utf8")
-            writer.writerow([a, b, c])
+            d = random.choice((0, 1))
+            writer.writerow([a, b, c, d])
                     
 
 

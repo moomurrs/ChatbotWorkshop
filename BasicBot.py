@@ -6,7 +6,8 @@ import string
 # global configs
 USER_TEMPLATE = "[USER]: "  # prefix for user input messages
 BOT_TEMPLATE = " [BOT]: "  # prefix for bot output messages (leading space is intentional, to make it line up nice)
-STARTUP_MESSAGE = """
+STARTUP_MESSAGE = 
+"""
 +================================+
   BasicBot
   Copyright CS Club @ IU, 2020
