@@ -1,250 +1,250 @@
 Name,City,State,Price,AllowsPets
 Hampton Inn Alexander City,Alexander City,AL,85,0
 Embassy Suites by Hilton Birmingham Hoover,Birmingham,AL,125,1
-Hampton Inn & Suites Birmingham/280 East-Eagle Point,Birmingham,AL,78,1
+Hampton Inn & Suites Birmingham/280 East-Eagle Point,Birmingham,AL,78,0
 Hampton Inn Birmingham-Colonnade 280,Birmingham,AL,101,0
-DoubleTree by Hilton Birmingham Perimeter Park,Birmingham,AL,108,1
-Hilton Garden Inn Birmingham/Lakeshore Drive,Birmingham,AL,86,0
+DoubleTree by Hilton Birmingham Perimeter Park,Birmingham,AL,108,0
+Hilton Garden Inn Birmingham/Lakeshore Drive,Birmingham,AL,86,1
 Hampton Inn Birmingham I-65/Lakeshore Drive,Birmingham,AL,99,0
-Hampton Inn Birmingham/Mountain Brook,Birmingham,AL,99,1
+Hampton Inn Birmingham/Mountain Brook,Birmingham,AL,99,0
 Embassy Suites by Hilton Birmingham,Birmingham,AL,117,0
-Hilton Garden Inn Birmingham SE/Liberty Park,Birmingham,AL,78,1
-Hilton Birmingham at UAB,Birmingham,AL,113,0
-Hilton Garden Inn Downtown Birmingham,Birmingham,AL,109,1
-Hampton Inn Auburn,Auburn,AL,87,0
+Hilton Garden Inn Birmingham SE/Liberty Park,Birmingham,AL,82,1
+Hilton Birmingham at UAB,Birmingham,AL,113,1
+Hilton Garden Inn Downtown Birmingham,Birmingham,AL,109,0
+Hampton Inn Auburn,Auburn,AL,87,1
 Tru by Hilton Auburn,Auburn,AL,78,1
-Hampton Inn & Suites Birmingham-Downtown-Tutwiler,Birmingham,AL,106,0
-Hampton Inn & Suites Birmingham East Irondale,Birmingham,AL,92,0
+Hampton Inn & Suites Birmingham-Downtown-Tutwiler,Birmingham,AL,108,0
+Hampton Inn & Suites Birmingham East Irondale,Birmingham,AL,92,1
 Hilton Garden Inn Auburn/Opelika,Auburn,AL,104,1
 Hilton Garden Inn Birmingham/Trussville,Birmingham,AL,103,0
 Hampton Inn Atmore,Atmore,AL,87,1
-Hampton Inn & Suites Athens-I-65 (Huntsville Area),Athens,AL,120,1
-Hampton Inn & Suites Fairbanks,Fairbanks,AK,153,0
-Hilton Anchorage,Anchorage,AK,135,1
+Hampton Inn & Suites Athens-I-65 (Huntsville Area),Athens,AL,125,1
+Hampton Inn & Suites Fairbanks,Fairbanks,AK,153,1
+Hilton Anchorage,Anchorage,AK,135,0
 Embassy Suites by Hilton Anchorage,Anchorage,AK,154,0
 Hampton Inn Anchorage,Anchorage,AK,87,0
 Hilton Garden Inn Anchorage,Anchorage,AK,91,1
-Home2 Suites by Hilton Anchorage/Midtown,Anchorage,AK,111,0
-Homewood Suites by Hilton Anchorage,Anchorage,AK,111,0
-Hampton Inn & Suites Phoenix East Mesa,Gilbert,AZ,182,0
-Hampton Inn Phoenix/Anthem,Anthem,AZ,165,1
-DoubleTree by Hilton Hotel Phoenix - Gilbert,Gilbert,AZ,172,1
+Home2 Suites by Hilton Anchorage/Midtown,Anchorage,AK,111,1
+Homewood Suites by Hilton Anchorage,Anchorage,AK,113,0
+Hampton Inn & Suites Phoenix East Mesa,Gilbert,AZ,192,1
+Hampton Inn Phoenix/Anthem,Anthem,AZ,165,0
+DoubleTree by Hilton Hotel Phoenix - Gilbert,Gilbert,AZ,168,0
 Hampton Inn & Suites Phoenix/Gilbert,Gilbert,AZ,160,1
 Hilton Phoenix Chandler,Chandler,AZ,187,1
-Homewood Suites by Hilton Phoenix Chandler Fashion Center,Chandler,AZ,184,0
-Hampton Inn & Suites Phoenix Chandler-Fashion Center AZ,Chandler,AZ,145,0
-Home2 Suites by Hilton Phoenix Chandler,Chandler,AZ,156,0
-Hampton Inn Phoenix/Chandler,Chandler,AZ,143,1
-Homewood Suites by Hilton Phoenix/Chandler,Chandler,AZ,210,1
-DoubleTree by Hilton Phoenix Chandler,Chandler,AZ,170,0
+Homewood Suites by Hilton Phoenix Chandler Fashion Center,Chandler,AZ,175,1
+Hampton Inn & Suites Phoenix Chandler-Fashion Center AZ,Chandler,AZ,145,1
+Home2 Suites by Hilton Phoenix Chandler,Chandler,AZ,156,1
+Hampton Inn Phoenix/Chandler,Chandler,AZ,149,1
+Homewood Suites by Hilton Phoenix/Chandler,Chandler,AZ,201,0
+DoubleTree by Hilton Phoenix Chandler,Chandler,AZ,170,1
 Homewood Suites by Hilton Phoenix-Avondale,Avondale,AZ,243,1
-Hilton Garden Inn Phoenix/Avondale,Avondale,AZ,215,1
-Hampton Inn & Suites Flagstaff,Flagstaff,AZ,82,1
+Hilton Garden Inn Phoenix/Avondale,Avondale,AZ,215,0
+Hampton Inn & Suites Flagstaff,Flagstaff,AZ,82,0
 Hilton Garden Inn Flagstaff,Flagstaff,AZ,83,1
-Hampton Inn & Suites Flagstaff East,Flagstaff,AZ,90,1
-DoubleTree by Hilton Hotel Flagstaff,Flagstaff,AZ,93,0
+Hampton Inn & Suites Flagstaff East,Flagstaff,AZ,90,0
+DoubleTree by Hilton Hotel Flagstaff,Flagstaff,AZ,93,1
 Embassy Suites by Hilton Flagstaff,Flagstaff,AZ,104,0
 Home2 Suites by Hilton Buckeye Phoenix,Buckeye,AZ,216,1
-Hilton Garden Inn Conway,Conway,AR,91,1
-Home2 Suites by Hilton Conway,Conway,AR,91,1
+Hilton Garden Inn Conway,Conway,AR,91,0
+Home2 Suites by Hilton Conway,Conway,AR,91,0
 Hampton Inn Batesville,Batesville,AR,102,0
 Hampton Inn Bryant,Bryant,AR,94,1
-Hampton Inn Forrest City,Forrest City,AR,90,1
+Hampton Inn Forrest City,Forrest City,AR,90,0
 Hampton Inn Clarksville,Clarksville,AR,79,0
-Hampton Inn Arkadelphia,Arkadelphia,AR,75,1
+Hampton Inn Arkadelphia,Arkadelphia,AR,75,0
 Hampton Inn Blytheville,Blytheville,AR,103,0
 Home2 Suites by Hilton Fort Smith,Fort Smith,AR,87,0
 Homewood Suites by Hilton Fort Smith,Fort Smith,AR,91,1
 Tru by Hilton Crossett,Crossett,AR,86,0
 Hampton Inn Fort Smith,Fort Smith,AR,87,0
 Hampton Inn Fayetteville,Fayetteville,AR,98,0
-Hampton Inn El Dorado,El Dorado,AR,97,1
-Hilton Garden Inn Fayetteville,Fayetteville,AR,100,1
-Homewood Suites by Hilton Fayetteville,Fayetteville,AR,95,1
+Hampton Inn El Dorado,El Dorado,AR,97,0
+Hilton Garden Inn Fayetteville,Fayetteville,AR,100,0
+Homewood Suites by Hilton Fayetteville,Fayetteville,AR,95,0
 DoubleTree by Hilton Fort Smith City Center,Fort Smith,AR,74,1
-Hilton Garden Inn Bentonville Rogers,Bentonville,AR,87,0
+Hilton Garden Inn Bentonville Rogers,Bentonville,AR,87,1
 DoubleTree Suites by Hilton Hotel Bentonville,Bentonville,AR,108,0
-Hampton Inn Arvin Tejon Ranch,Arvin,CA,114,1
+Hampton Inn Arvin Tejon Ranch,Arvin,CA,114,0
 Hampton Inn & Suites Arroyo Grande/Pismo Beach Area,Arroyo Grande,CA,72,0
-Home2 Suites by Hilton Alameda Oakland Airport,Alameda,CA,165,0
+Home2 Suites by Hilton Alameda Oakland Airport,Alameda,CA,166,1
 Hampton Inn & Suites Oakland Airport-Alameda,Alameda,CA,119,0
-DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon,American Canyon,CA,87,1
-Hampton Inn & Suites Agoura Hills,Agoura Hills,CA,133,0
+DoubleTree by Hilton Hotel & Spa Napa Valley - American Canyon,American Canyon,CA,87,0
+Hampton Inn & Suites Agoura Hills,Agoura Hills,CA,142,1
 Homewood Suites by Hilton Agoura Hills,Agoura Hills,CA,131,1
-Hilton Garden Inn Arcadia/Pasadena Area,Arcadia,CA,120,0
+Hilton Garden Inn Arcadia/Pasadena Area,Arcadia,CA,120,1
 Hampton Inn Los Angeles/Arcadia/Pasadena,Arcadia,CA,123,1
-Embassy Suites by Hilton Arcadia Pasadena Area,Arcadia,CA,144,1
-Home2 Suites by Hilton Azusa,Azusa,CA,115,0
+Embassy Suites by Hilton Arcadia Pasadena Area,Arcadia,CA,144,0
+Home2 Suites by Hilton Azusa,Azusa,CA,115,1
 Embassy Suites by Hilton Anaheim North,Anaheim,CA,127,0
 "SunCoast Park Hotel Anaheim, Tapestry Collection by Hilton",Anaheim,CA,140,0
-Hilton Anaheim,Anaheim,CA,122,0
-Hampton Inn  & Suites Anaheim Resort Convention Center,Anaheim,CA,111,1
+Hilton Anaheim,Anaheim,CA,122,1
+Hampton Inn  & Suites Anaheim Resort Convention Center,Anaheim,CA,111,0
 Homewood Suites by Hilton Anaheim Resort - Convention Center,Anaheim,CA,118,0
-DoubleTree Suites by Hilton Hotel Anaheim Resort - Convention Center,Anaheim,CA,100,0
+DoubleTree Suites by Hilton Hotel Anaheim Resort - Convention Center,Anaheim,CA,117,1
 Homewood Suites by Hilton Aliso Viejo - Laguna Beach,Aliso Viejo,CA,126,1
-"Hampton Inn & Suites Arcata, CA",Arcata,CA,102,1
-DoubleTree by Hilton Hotel Breckenridge,Breckenridge,CO,210,1
-Hilton Garden Inn Arvada Denver,Arvada,CO,102,1
+"Hampton Inn & Suites Arcata, CA",Arcata,CA,102,0
+DoubleTree by Hilton Hotel Breckenridge,Breckenridge,CO,210,0
+Hilton Garden Inn Arvada Denver,Arvada,CO,102,0
 Homewood Suites by Hilton - Boulder,Boulder,CO,122,1
 Embassy Suites by Hilton Boulder,Boulder,CO,124,0
-Hilton Garden Inn Boulder,Boulder,CO,115,1
-Hampton Inn & Suites Boulder-North,Boulder,CO,122,1
+Hilton Garden Inn Boulder,Boulder,CO,115,0
+Hampton Inn & Suites Boulder-North,Boulder,CO,122,0
 Embassy Suites by Hilton Denver Tech Center,Centennial,CO,96,1
-Hampton Inn Denver Tech Center South,Centennial,CO,87,1
-Hampton Inn Castle Rock,Castle Rock,CO,99,0
-Home2 Suites by Hilton Denver South Centennial Airport,Centennial,CO,85,0
-DoubleTree by Hilton Hotel Denver - Aurora,Aurora,CO,102,1
-Hilton Garden Inn Denver Airport,Aurora,CO,93,1
+Hampton Inn Denver Tech Center South,Centennial,CO,87,0
+Hampton Inn Castle Rock,Castle Rock,CO,99,1
+Home2 Suites by Hilton Denver South Centennial Airport,Centennial,CO,85,1
+DoubleTree by Hilton Hotel Denver - Aurora,Aurora,CO,102,0
+Hilton Garden Inn Denver Airport,Aurora,CO,93,0
 Hampton Inn Denver Northeast-Brighton,Brighton,CO,82,0
 Hampton Inn & Suites Colorado Springs-Air Force Academy-I-25 North,Colorado Springs,CO,96,0
-Embassy Suites by Hilton Colorado Springs,Colorado Springs,CO,101,1
+Embassy Suites by Hilton Colorado Springs,Colorado Springs,CO,101,0
 DoubleTree by Hilton Hotel Colorado Springs,Colorado Springs,CO,111,1
-Hampton Inn & Suites Colorado Springs/I-25 South,Colorado Springs,CO,99,0
-Hampton Inn Canon City,Canon City,CO,94,1
-"Hampton Inn Alamosa, CO",Alamosa,CO,86,0
+Hampton Inn & Suites Colorado Springs/I-25 South,Colorado Springs,CO,103,1
+Hampton Inn Canon City,Canon City,CO,92,1
+"Hampton Inn Alamosa, CO",Alamosa,CO,86,1
 "DoubleTree by Hilton Hotel Bristol, Connecticut",Bristol,CT,131,0
-Hampton Inn & Suites Hartford/Farmington,Farmington,CT,96,1
-Homewood Suites by Hilton Hartford-Farmington,Farmington,CT,106,0
+Hampton Inn & Suites Hartford/Farmington,Farmington,CT,96,0
+Homewood Suites by Hilton Hartford-Farmington,Farmington,CT,106,1
 Hampton Inn Danbury,Danbury,CT,97,1
-Homewood Suites by Hilton Hartford Downtown,Hartford,CT,149,1
+Homewood Suites by Hilton Hartford Downtown,Hartford,CT,149,0
 Hilton Hartford,Hartford,CT,102,1
 Hampton Inn & Suites Hartford/East Hartford,East Hartford,CT,91,1
 Hilton Garden Inn Hartford South/Glastonbury,Glastonbury,CT,100,1
 Homewood Suites by Hilton Hartford South-Glastonbury,Glastonbury,CT,109,0
 Hilton Garden Inn Milford,Milford,CT,77,1
 Hampton Inn Milford,Milford,CT,69,1
-Hilton Garden Inn Danbury,Danbury,CT,97,1
+Hilton Garden Inn Danbury,Danbury,CT,97,0
 Hampton Inn & Suites Hartford-Manchester,Manchester,CT,94,1
-Homewood Suites by Hilton Hartford Manchester,Manchester,CT,102,0
-"Madison Beach Hotel, Curio Collection by Hilton",Madison,CT,210,0
-Hampton Inn Springfield South Enfield,Enfield,CT,115,0
+Homewood Suites by Hilton Hartford Manchester,Manchester,CT,104,1
+"Madison Beach Hotel, Curio Collection by Hilton",Madison,CT,210,1
+Hampton Inn Springfield South Enfield,Enfield,CT,115,1
 Hilton Garden Inn Mystic/Groton,Groton,CT,89,0
-Hampton Inn Groton,Groton,CT,84,0
+Hampton Inn Groton,Groton,CT,84,1
 Hampton Inn & Suites Mystic,Mystic,CT,79,0
 Hilton Mystic,Mystic,CT,109,0
 Hampton Inn Milford,Milford,DE,78,0
 Tru by Hilton Georgetown,Georgetown,DE,93,0
 "Home2 Suites by Hilton Dover, DE",Dover,DE,94,0
-Hampton Inn Seaford,Seaford,DE,91,0
-Hampton Inn Dover,Dover,DE,83,0
-Hilton Garden Inn Dover,Dover,DE,103,0
-Hampton Inn Rehoboth Beach,Rehoboth Beach,DE,90,1
-Hampton Inn Middletown,Middletown,DE,105,1
-Embassy Suites by Hilton Newark Wilmington South,Newark,DE,125,1
+Hampton Inn Seaford,Seaford,DE,91,1
+Hampton Inn Dover,Dover,DE,83,1
+Hilton Garden Inn Dover,Dover,DE,103,1
+Hampton Inn Rehoboth Beach,Rehoboth Beach,DE,90,0
+Hampton Inn Middletown,Middletown,DE,105,0
+Embassy Suites by Hilton Newark Wilmington South,Newark,DE,130,1
 Homewood Suites by Hilton Newark-Wilmington South Area,Newark,DE,110,0
-Hilton Wilmington/Christiana,Newark,DE,137,0
-Hampton Inn & Suites Wilmington Christiana,Newark,DE,102,0
-Homewood Suites by Hilton Wilmington Downtown,Wilmington,DE,125,0
-DoubleTree by Hilton Hotel Downtown Wilmington - Legal District,Wilmington,DE,111,0
-Homewood Suites by Hilton Wilmington-Brandywine Valley,Wilmington,DE,117,1
-DoubleTree by Hilton Hotel Wilmington,Wilmington,DE,103,1
+Hilton Wilmington/Christiana,Newark,DE,137,1
+Hampton Inn & Suites Wilmington Christiana,Newark,DE,99,1
+Homewood Suites by Hilton Wilmington Downtown,Wilmington,DE,125,1
+DoubleTree by Hilton Hotel Downtown Wilmington - Legal District,Wilmington,DE,111,1
+Homewood Suites by Hilton Wilmington-Brandywine Valley,Wilmington,DE,117,0
+DoubleTree by Hilton Hotel Wilmington,Wilmington,DE,103,0
 Hampton Inn Bartow,Bartow,FL,144,0
-Home2 Suites by Hilton Brandon Tampa,Brandon,FL,135,1
+Home2 Suites by Hilton Brandon Tampa,Brandon,FL,137,0
 Hampton Inn & Suites Bradenton Downtown Historic District,Bradenton,FL,140,1
-Hilton Orlando/Altamonte Springs,Altamonte Springs,FL,119,0
-Embassy Suites by Hilton Orlando North,Altamonte Springs,FL,131,0
-Hampton Inn & Suites Orlando-North/Altamonte Springs,Altamonte Springs,FL,135,1
-Hampton Inn & Suites Orlando-Apopka,Apopka,FL,144,1
+Hilton Orlando/Altamonte Springs,Altamonte Springs,FL,119,1
+Embassy Suites by Hilton Orlando North,Altamonte Springs,FL,131,1
+Hampton Inn & Suites Orlando-North/Altamonte Springs,Altamonte Springs,FL,135,0
+Hampton Inn & Suites Orlando-Apopka,Apopka,FL,144,0
 Hampton Inn Brooksville/Dade City,Brooksville,FL,127,0
-"Homewood Suites by Hilton Bonita Springs, FL",Bonita Springs,FL,253,1
+"Homewood Suites by Hilton Bonita Springs, FL",Bonita Springs,FL,262,0
 Hampton Inn Bonita Springs/Naples-North,Bonita Springs,FL,231,0
 Hampton Inn & Suites Boynton Beach,Boynton Beach,FL,183,1
-Hilton Boca Raton Suites,Boca Raton,FL,219,1
+Hilton Boca Raton Suites,Boca Raton,FL,219,0
 Hilton Garden Inn Boca Raton,Boca Raton,FL,165,0
 Hampton Inn Boca Raton,Boca Raton,FL,175,0
-Embassy Suites by Hilton Boca Raton,Boca Raton,FL,185,1
+Embassy Suites by Hilton Boca Raton,Boca Raton,FL,201,0
 "Boca Raton Resort and Club, A Waldorf Astoria Resort",Boca Raton,FL,588,1
-"Waterstone Resort & Marina Boca Raton, Curio Collection by Hilton",Boca Raton,FL,228,1
-"Boca Beach Club, A Waldorf Astoria Resort",Boca Raton,FL,751,0
+"Waterstone Resort & Marina Boca Raton, Curio Collection by Hilton",Boca Raton,FL,228,0
+"Boca Beach Club, A Waldorf Astoria Resort",Boca Raton,FL,704,1
 Hampton Inn Americus,Americus,GA,85,0
-Hampton Inn & Suites Albany At Albany Mall,Albany,GA,107,1
+Hampton Inn & Suites Albany At Albany Mall,Albany,GA,119,1
 Hilton Garden Inn Albany,Albany,GA,106,1
 Hampton Inn Athens,Athens,GA,87,1
-Homewood Suites by Hilton Athens,Athens,GA,98,0
+Homewood Suites by Hilton Athens,Athens,GA,98,1
 Hilton Garden Inn Athens Downtown,Athens,GA,103,0
 Canopy by Hilton Atlanta Midtown,Atlanta,GA,142,0
 DoubleTree by Hilton Atlanta Perimeter Dunwoody,Atlanta,GA,104,0
-Hampton Inn Adel,Adel,GA,90,1
-DoubleTree by Hilton Hotel Atlanta - Marietta,Atlanta,GA,103,0
-Hilton Garden Inn Atlanta Northpoint,Alpharetta,GA,87,0
-Embassy Suites by Hilton Atlanta Alpharetta,Alpharetta,GA,109,0
-Homewood Suites by Hilton Atlanta-Alpharetta,Alpharetta,GA,102,0
-Hampton Inn Alpharetta/Roswell,Alpharetta,GA,65,1
+Hampton Inn Adel,Adel,GA,97,0
+DoubleTree by Hilton Hotel Atlanta - Marietta,Atlanta,GA,103,1
+Hilton Garden Inn Atlanta Northpoint,Alpharetta,GA,87,1
+Embassy Suites by Hilton Atlanta Alpharetta,Alpharetta,GA,109,1
+Homewood Suites by Hilton Atlanta-Alpharetta,Alpharetta,GA,102,1
+Hampton Inn Alpharetta/Roswell,Alpharetta,GA,65,0
 Home2 Suites by Hilton Alpharetta,Alpharetta,GA,85,0
 Hilton Garden Inn Atlanta North/Alpharetta,Alpharetta,GA,62,1
-DoubleTree by Hilton Hotel Atlanta - Alpharetta,Alpharetta,GA,74,0
-Hampton Inn & Suites Alpharetta,Alpharetta,GA,76,1
-Hampton Inn Acworth,Acworth,GA,99,1
-Hampton Inn & Suites Adairsville-Calhoun Area,Adairsville,GA,86,1
-Kings' Land by Hilton Grand Vacations,Waikoloa,HI,228,1
+DoubleTree by Hilton Hotel Atlanta - Alpharetta,Alpharetta,GA,69,1
+Hampton Inn & Suites Alpharetta,Alpharetta,GA,76,0
+Hampton Inn Acworth,Acworth,GA,99,0
+Hampton Inn & Suites Adairsville-Calhoun Area,Adairsville,GA,86,0
+Kings' Land by Hilton Grand Vacations,Waikoloa,HI,228,0
 Kohala Suites by Hilton Grand Vacations,Waikoloa,HI,424,1
 Ocean Tower by Hilton Grand Vacations,Waikoloa,HI,213,0
-Hilton Waikoloa Village,Waikoloa,HI,223,0
+Hilton Waikoloa Village,Waikoloa,HI,223,1
 Grand Naniloa Hotel Hilo - a DoubleTree by Hilton,Hilo,HI,180,0
-Ho'olei at Grand Wailea,Wailea,HI,1224,1
-"Grand Wailea, A Waldorf Astoria Resort",Wailea,HI,507,0
-Hilton Waikiki Beach,Honolulu,HI,166,1
-Hilton Garden Inn Waikiki Beach,Honolulu,HI,154,0
-Hokulani Waikiki by Hilton Grand Vacations,Honolulu,HI,324,1
-Embassy Suites by Hilton Waikiki Beach Walk,Honolulu,HI,239,0
-The Grand Islander by Hilton Grand Vacations,Honolulu,HI,563,0
+Ho'olei at Grand Wailea,Wailea,HI,1224,0
+"Grand Wailea, A Waldorf Astoria Resort",Wailea,HI,482,0
+Hilton Waikiki Beach,Honolulu,HI,166,0
+Hilton Garden Inn Waikiki Beach,Honolulu,HI,154,1
+Hokulani Waikiki by Hilton Grand Vacations,Honolulu,HI,324,0
+Embassy Suites by Hilton Waikiki Beach Walk,Honolulu,HI,239,1
+The Grand Islander by Hilton Grand Vacations,Honolulu,HI,563,1
 DoubleTree by Hilton Hotel Alana - Waikiki Beach,Honolulu,HI,156,1
-Hilton Hawaiian Village Waikiki Beach Resort,Honolulu,HI,178,0
+Hilton Hawaiian Village Waikiki Beach Resort,Honolulu,HI,178,1
 Hilton Grand Vacations at Hilton Hawaiian Village,Honolulu,HI,255,0
 Grand Waikikian by Hilton Grand Vacations,Honolulu,HI,431,0
-Hampton Inn & Suites Oahu/Kapolei,Kapolei,HI,171,0
-Embassy Suites by Hilton Oahu Kapolei,Kapolei,HI,247,0
-Hilton Garden Inn Kauai Wailua Bay,Kapaa,HI,201,1
-Hampton Inn & Suites Mountain Home,Mountain Home,ID,117,1
-Hampton Inn & Suites Boise-Downtown,Boise,ID,124,1
+Hampton Inn & Suites Oahu/Kapolei,Kapolei,HI,171,1
+Embassy Suites by Hilton Oahu Kapolei,Kapolei,HI,231,1
+Hilton Garden Inn Kauai Wailua Bay,Kapaa,HI,184,1
+Hampton Inn & Suites Mountain Home,Mountain Home,ID,117,0
+Hampton Inn & Suites Boise-Downtown,Boise,ID,124,0
 Hilton Garden Inn Boise Downtown,Boise,ID,115,1
-Hampton Inn Boise - Airport,Boise,ID,78,0
-Hampton Inn & Suites Boise/Spectrum,Boise,ID,111,1
-Hilton Garden Inn Boise Spectrum,Boise,ID,96,0
-Homewood Suites by Hilton Boise,Boise,ID,127,0
+Hampton Inn Boise - Airport,Boise,ID,87,1
+Hampton Inn & Suites Boise/Spectrum,Boise,ID,111,0
+Hilton Garden Inn Boise Spectrum,Boise,ID,98,1
+Homewood Suites by Hilton Boise,Boise,ID,127,1
 Hilton Garden Inn Boise/Eagle,Eagle,ID,136,1
-Tru by Hilton Meridian Boise West,Meridian,ID,83,1
+Tru by Hilton Meridian Boise West,Meridian,ID,83,0
 Hampton Inn & Suites Boise-Meridian,Meridian,ID,105,1
-Hampton Inn & Suites Boise/Nampa at the Idaho Center,Nampa,ID,104,1
-Home2 Suites by Hilton Nampa,Nampa,ID,96,0
+Hampton Inn & Suites Boise/Nampa at the Idaho Center,Nampa,ID,104,0
+Home2 Suites by Hilton Nampa,Nampa,ID,96,1
 Hampton Inn Burley,Burley,ID,78,0
 Home2 Suites by Hilton Idaho Falls,Idaho Falls,ID,82,0
 Hampton Inn Idaho Falls/Airport,Idaho Falls,ID,80,1
 Tru by Hilton Idaho Falls,Idaho Falls,ID,69,0
-Hilton Garden Inn Idaho Falls,Idaho Falls,ID,82,1
-Hampton Inn Idaho Falls At the Mall,Idaho Falls,ID,76,0
+Hilton Garden Inn Idaho Falls,Idaho Falls,ID,82,0
+Hampton Inn Idaho Falls At the Mall,Idaho Falls,ID,76,1
 Hampton Inn Lewiston,Lewiston,ID,108,1
 Hampton Inn & Suites Coeur d' Alene,Coeur d'Alene,ID,104,0
 Hampton Inn Bloomington West,Bloomington,IL,86,1
-DoubleTree by Hilton Hotel Bloomington,Bloomington,IL,96,1
+DoubleTree by Hilton Hotel Bloomington,Bloomington,IL,96,0
 Hampton Inn & Suites Chicago/Aurora,Aurora,IL,103,0
-Homewood Suites by Hilton Aurora Naperville,Aurora,IL,95,0
+Homewood Suites by Hilton Aurora Naperville,Aurora,IL,95,1
 Hampton Inn & Suites Bolingbrook,Bolingbrook,IL,96,0
-Hilton Garden Inn Bolingbrook I-55,Bolingbrook,IL,108,0
-Hampton Inn Chicago-Carol Stream,Carol Stream,IL,100,1
-Hampton Inn Bourbonnais Kankakee,Bourbonnais,IL,89,1
-Hampton Inn & Suites Chicago-Burr Ridge,Burr Ridge,IL,86,1
-Hilton Garden Inn Addison,Addison,IL,94,1
+Hilton Garden Inn Bolingbrook I-55,Bolingbrook,IL,108,1
+Hampton Inn Chicago-Carol Stream,Carol Stream,IL,100,0
+Hampton Inn Bourbonnais Kankakee,Bourbonnais,IL,97,0
+Hampton Inn & Suites Chicago-Burr Ridge,Burr Ridge,IL,86,0
+Hilton Garden Inn Addison,Addison,IL,94,0
 Hampton Inn & Suites Addison,Addison,IL,85,1
 Hampton Inn & Suites Bridgeview Chicago,Bridgeview,IL,106,0
-Hampton Inn Champaign Southwest,Champaign,IL,104,0
-DoubleTree by Hilton Hotel Chicago - Alsip,Alsip,IL,94,0
-DoubleTree by Hilton Hotel Chicago - Arlington Heights,Arlington Heights,IL,88,1
+Hampton Inn Champaign Southwest,Champaign,IL,104,1
+DoubleTree by Hilton Hotel Chicago - Alsip,Alsip,IL,96,1
+DoubleTree by Hilton Hotel Chicago - Arlington Heights,Arlington Heights,IL,88,0
 Hilton Garden Inn Chicago/Midway Airport,Bedford Park,IL,101,0
-Hampton Inn Chicago-Midway Airport,Bedford Park,IL,95,0
-Hampton Inn & Suites St. Louis/Alton,Alton,IL,109,1
-Hampton Inn Carbondale,Carbondale,IL,102,1
-Home2 Suites by Hilton Carbondale,Carbondale,IL,108,1
+Hampton Inn Chicago-Midway Airport,Bedford Park,IL,95,1
+Hampton Inn & Suites St. Louis/Alton,Alton,IL,104,1
+Hampton Inn Carbondale,Carbondale,IL,102,0
+Home2 Suites by Hilton Carbondale,Carbondale,IL,108,0
 Hilton Garden Inn Indianapolis/Carmel,Carmel,IN,104,1
 Hampton Inn Indianapolis/Carmel,Carmel,IN,97,0
 Homewood Suites by Hilton Indianapolis Carmel,Carmel,IN,98,0
-Hampton Inn Anderson,Anderson,IN,89,0
+Hampton Inn Anderson,Anderson,IN,93,0
 Hampton Inn & Suites Indianapolis/Brownsburg,Brownsburg,IN,96,0
-Hampton Inn & Suites Crawfordsville,Crawfordsville,IN,87,1
+Hampton Inn & Suites Crawfordsville,Crawfordsville,IN,87,0
 Hilton Garden Inn Columbus/Edinburgh,Edinburgh,IN,109,1
-Hampton Inn Columbus/Taylorsville/Edinburgh,Edinburgh,IN,95,1
+Hampton Inn Columbus/Taylorsville/Edinburgh,Edinburgh,IN,95,0
 Hampton Inn Bloomington,Bloomington,IN,87,0
-Home2 Suites by Hilton Bloomington,Bloomington,IN,102,0
+Home2 Suites by Hilton Bloomington,Bloomington,IN,102,1
 Hilton Garden Inn Bloomington,Bloomington,IN,104,1
 Homewood Suites by Hilton Bloomington,Bloomington,IN,106,1
 Hampton Inn Auburn,Auburn,IN,109,1
@@ -253,302 +253,301 @@ Hilton Garden Inn Chesterton,Chesterton,IN,89,0
 Home2 Suites by Hilton Clarksville Louisville North,Clarksville,IN,113,1
 Hampton Inn Louisville-North/Clarksville,Clarksville,IN,94,1
 Hampton Inn Corydon,Corydon,IN,104,1
-Hampton Inn & Suites Altoona-Des Moines,Altoona,IA,92,1
+Hampton Inn & Suites Altoona-Des Moines,Altoona,IA,92,0
 Hampton Inn & Suites Ames,Ames,IA,105,1
-Homewood Suites by Hilton Ankeny,Ankeny,IA,113,1
+Homewood Suites by Hilton Ankeny,Ankeny,IA,111,0
 Hampton Inn & Suites Ankeny,Ankeny,IA,108,1
-Hilton Garden Inn Ames,Ames,IA,108,1
+Hilton Garden Inn Ames,Ames,IA,108,0
 Hilton Garden Inn Cedar Falls,Cedar Falls,IA,104,1
-Hampton Inn Cedar Falls Downtown,Cedar Falls,IA,110,1
+Hampton Inn Cedar Falls Downtown,Cedar Falls,IA,110,0
 Tru by Hilton Cedar Rapids Westdale,Cedar Rapids,IA,67,0
 Hampton Inn Cedar Rapids,Cedar Rapids,IA,70,1
-DoubleTree by Hilton Hotel Cedar Rapids Convention Complex,Cedar Rapids,IA,110,1
-Homewood Suites by Hilton Cedar Rapids-North,Cedar Rapids,IA,102,1
+DoubleTree by Hilton Hotel Cedar Rapids Convention Complex,Cedar Rapids,IA,110,0
+Homewood Suites by Hilton Cedar Rapids-North,Cedar Rapids,IA,106,1
 Hampton Inn & Suites Cedar Rapids - North,Cedar Rapids,IA,94,0
-Home2 Suites by Hilton Iowa City Coralville,Coralville,IA,94,0
-Hampton Inn Iowa City/Coralville,Coralville,IA,87,0
-"Homewood Suites by Hilton Coralville - Iowa River Landing, IA",Coralville,IA,111,1
+Home2 Suites by Hilton Iowa City Coralville,Coralville,IA,102,0
+Hampton Inn Iowa City/Coralville,Coralville,IA,83,1
+"Homewood Suites by Hilton Coralville - Iowa River Landing, IA",Coralville,IA,111,0
 Hampton Inn & Suites Burlington,Burlington,IA,108,1
 Home2 Suites by Hilton Bettendorf Quad Cities,Bettendorf,IA,85,1
 Hilton Garden Inn Bettendorf/Quad Cities,Bettendorf,IA,90,1
 Hampton Inn Clinton,Clinton,IA,96,1
-Hampton Inn Omaha Airport,Carter Lake,IA,89,1
-Hampton Inn Hays-North of I-70,Hays,KS,94,1
+Hampton Inn Omaha Airport,Carter Lake,IA,89,0
+Hampton Inn Hays-North of I-70,Hays,KS,94,0
 Hampton Inn Hutchinson,Hutchinson,KS,89,1
 Hampton Inn Junction City,Junction City,KS,65,0
-Hampton Inn Manhattan,Manhattan,KS,82,0
+Hampton Inn Manhattan,Manhattan,KS,82,1
 Hampton Inn Derby,Derby,KS,82,0
-Hampton Inn & Suites Dodge City,Dodge City,KS,104,1
-Hampton Inn Emporia,Emporia,KS,104,1
+Hampton Inn & Suites Dodge City,Dodge City,KS,93,1
+Hampton Inn Emporia,Emporia,KS,104,0
 Hampton Inn Colby,Colby,KS,98,1
 Hampton Inn Garden City,Garden City,KS,82,1
-Tru by Hilton Lawrence,Lawrence,KS,78,1
+Tru by Hilton Lawrence,Lawrence,KS,78,0
 Hampton Inn Lawrence,Lawrence,KS,99,1
-DoubleTree by Hilton Hotel Lawrence,Lawrence,KS,82,0
+DoubleTree by Hilton Hotel Lawrence,Lawrence,KS,82,1
 Hampton Inn & Suites Liberal,Liberal,KS,85,0
 Hampton Inn Leavenworth,Leavenworth,KS,106,0
-Home2 Suites by Hilton Leavenworth Downtown,Leavenworth,KS,109,0
-Hampton Inn Gardner Conference  Center,Gardner,KS,101,0
-Homewood Suites by Hilton Kansas City Speedway,Kansas City,KS,113,0
-Hampton Inn Kansas City The Legends,Kansas City,KS,87,1
-Hilton Garden Inn Kansas City/Kansas,Kansas City,KS,109,1
-Home2 Suites by Hilton Kansas City KU Medical Center,Kansas City,KS,100,0
-Hampton Inn Danville,Danville,KY,95,1
-Hampton Inn Frankfort,Frankfort,KY,103,0
+Home2 Suites by Hilton Leavenworth Downtown,Leavenworth,KS,109,1
+Hampton Inn Gardner Conference  Center,Gardner,KS,101,1
+Homewood Suites by Hilton Kansas City Speedway,Kansas City,KS,121,1
+Hampton Inn Kansas City The Legends,Kansas City,KS,89,1
+Hilton Garden Inn Kansas City/Kansas,Kansas City,KS,109,0
+Home2 Suites by Hilton Kansas City KU Medical Center,Kansas City,KS,100,1
+Hampton Inn Danville,Danville,KY,95,0
+Hampton Inn Frankfort,Frankfort,KY,103,1
 Hampton Inn Corbin,Corbin,KY,102,1
 Hampton Inn Dry Ridge,Dry Ridge,KY,83,0
-Hampton Inn Bardstown,Bardstown,KY,84,1
+Hampton Inn Bardstown,Bardstown,KY,84,0
 Hampton Inn Carrollton,Carrollton,KY,102,1
 Hampton Inn Louisville I-65 @ Brooks Rd.,Brooks,KY,103,1
-Home2 Suites by Hilton Florence Cincinnati Airport South,Florence,KY,94,1
-Homewood Suites by Hilton Cincinnati Airport South-Florence,Florence,KY,111,0
+Home2 Suites by Hilton Florence Cincinnati Airport South,Florence,KY,94,0
+Homewood Suites by Hilton Cincinnati Airport South-Florence,Florence,KY,111,1
 Hilton Cincinnati Airport,Florence,KY,104,0
 Hampton Inn Cincinnati/Airport South,Florence,KY,93,1
-Tru by Hilton Cincinnati Airport South Florence,Florence,KY,93,0
-Hilton Garden Inn Elizabethtown,Elizabethtown,KY,89,1
+Tru by Hilton Cincinnati Airport South Florence,Florence,KY,93,1
+Hilton Garden Inn Elizabethtown,Elizabethtown,KY,89,0
 Hampton Inn Elizabethtown,Elizabethtown,KY,90,0
-Embassy Suites by Hilton Cincinnati RiverCenter,Covington,KY,149,0
-Hampton Inn Ashland,Ashland,KY,88,0
-Hilton Garden Inn Bowling Green,Bowling Green,KY,91,0
-Home2 Suites by Hilton Bowling Green,Bowling Green,KY,86,1
-Hampton Inn Bowling Green,Bowling Green,KY,87,1
+Embassy Suites by Hilton Cincinnati RiverCenter,Covington,KY,157,1
+Hampton Inn Ashland,Ashland,KY,88,1
+Hilton Garden Inn Bowling Green,Bowling Green,KY,91,1
+Home2 Suites by Hilton Bowling Green,Bowling Green,KY,89,0
+Hampton Inn Bowling Green,Bowling Green,KY,87,0
 Tru by Hilton Bowling Green,Bowling Green,KY,78,0
 Home2 Suites by Hilton Alexandria,Alexandria,LA,96,0
-Hampton Inn & Suites Alexandria,Alexandria,LA,87,0
-Hilton Garden Inn Baton Rouge Airport,Baton Rouge,LA,96,0
-Hampton Inn Broussard-Lafayette Area,Broussard,LA,87,0
-Hampton Inn & Suites Baton Rouge Downtown,Baton Rouge,LA,120,0
-Hilton Baton Rouge Capitol Center,Baton Rouge,LA,119,1
+Hampton Inn & Suites Alexandria,Alexandria,LA,87,1
+Hilton Garden Inn Baton Rouge Airport,Baton Rouge,LA,96,1
+Hampton Inn Broussard-Lafayette Area,Broussard,LA,87,1
+Hampton Inn & Suites Baton Rouge Downtown,Baton Rouge,LA,120,1
+Hilton Baton Rouge Capitol Center,Baton Rouge,LA,125,1
 Hampton Inn Baton Rouge-I-10 & College Dr.,Baton Rouge,LA,105,1
-DoubleTree by Hilton Hotel Baton Rouge,Baton Rouge,LA,103,0
-Embassy Suites by Hilton Baton Rouge,Baton Rouge,LA,104,0
+DoubleTree by Hilton Hotel Baton Rouge,Baton Rouge,LA,103,1
+Embassy Suites by Hilton Baton Rouge,Baton Rouge,LA,104,1
 Tru by Hilton Baton Rouge Citiplace,Baton Rouge,LA,79,1
 Homewood Suites by Hilton Baton Rouge,Baton Rouge,LA,99,1
-Home2 Suites by Hilton Baton Rouge,Baton Rouge,LA,94,1
-Hampton Inn & Suites Baton Rouge - I-10 East,Baton Rouge,LA,89,1
+Home2 Suites by Hilton Baton Rouge,Baton Rouge,LA,94,0
+Hampton Inn & Suites Baton Rouge - I-10 East,Baton Rouge,LA,89,0
 Hilton Garden Inn Covington/Mandeville,Covington,LA,87,1
-Homewood Suites by Hilton Covington,Covington,LA,82,1
+Homewood Suites by Hilton Covington,Covington,LA,82,0
 Hampton Inn Covington,Covington,LA,90,0
 Hampton Inn Shreveport/Bossier City,Bossier City,LA,86,1
 Hilton Garden Inn Shreveport Bossier City,Bossier City,LA,92,0
-"Homewood Suites by Hilton Shreveport / Bossier City, LA",Bossier City,LA,101,1
-Hampton Inn & Suites Shreveport/Bossier City at Airline Drive,Bossier City,LA,99,1
-Hampton Inn Bangor,Bangor,ME,104,1
+"Homewood Suites by Hilton Shreveport / Bossier City, LA",Bossier City,LA,101,0
+Hampton Inn & Suites Shreveport/Bossier City at Airline Drive,Bossier City,LA,99,0
+Hampton Inn Bangor,Bangor,ME,104,0
 Hilton Garden Inn Bangor,Bangor,ME,113,1
-Homewood Suites by Hilton Augusta,Augusta,ME,126,0
+Homewood Suites by Hilton Augusta,Augusta,ME,126,1
 Hampton Inn Augusta,Augusta,ME,113,0
-Hampton Inn Ellsworth/Bar Harbor,Ellsworth,ME,111,1
-Hilton Garden Inn Auburn Riverwatch,Auburn,ME,96,1
-Hampton Inn Lewiston-Auburn,Lewiston,ME,92,0
-Hampton Inn Oxford,Oxford,ME,78,0
+Hampton Inn Ellsworth/Bar Harbor,Ellsworth,ME,111,0
+Hilton Garden Inn Auburn Riverwatch,Auburn,ME,96,0
+Hampton Inn Lewiston-Auburn,Lewiston,ME,92,1
+Hampton Inn Oxford,Oxford,ME,78,1
 "Hampton Inn Bath (Brunswick Area), ME",Bath,ME,106,1
-Hilton Garden Inn Freeport Downtown,Freeport,ME,90,1
-Hampton Inn Freeport/Brunswick,Freeport,ME,78,0
+Hilton Garden Inn Freeport Downtown,Freeport,ME,90,0
+Hampton Inn Freeport/Brunswick,Freeport,ME,78,1
 Hampton Inn Portland Downtown - Waterfront,Portland,ME,107,1
 Hilton Garden Inn Portland Downtown Waterfront,Portland,ME,114,0
 Hampton Inn & Suites Portland West,Portland,ME,78,0
 Embassy Suites by Hilton Portland Maine,Portland,ME,110,1
-Hilton Garden Inn Portland Airport,Portland,ME,96,0
-"DoubleTree by Hilton Hotel Portland, ME",Portland,ME,93,1
-Hampton Inn Kennebunk Kennebunkport,Kennebunk,ME,89,0
-Hampton Inn & Suites Kittery,Kittery,ME,96,0
-Hilton Garden Inn Annapolis,Annapolis,MD,82,0
+Hilton Garden Inn Portland Airport,Portland,ME,96,1
+"DoubleTree by Hilton Hotel Portland, ME",Portland,ME,93,0
+Hampton Inn Kennebunk Kennebunkport,Kennebunk,ME,89,1
+Hampton Inn & Suites Kittery,Kittery,ME,96,1
+Hilton Garden Inn Annapolis,Annapolis,MD,82,1
 DoubleTree by Hilton Hotel Annapolis,Annapolis,MD,94,1
-Hampton Inn & Suites Annapolis,Annapolis,MD,82,0
+Hampton Inn & Suites Annapolis,Annapolis,MD,82,1
 Hilton Garden Inn Annapolis Downtown,Annapolis,MD,100,1
-Hampton Inn Baltimore-Downtown-Convention Center,Baltimore,MD,87,0
-Homewood Suites by Hilton Baltimore,Baltimore,MD,111,1
+Hampton Inn Baltimore-Downtown-Convention Center,Baltimore,MD,95,0
+Homewood Suites by Hilton Baltimore,Baltimore,MD,115,1
 Hilton Garden Inn Baltimore Inner Harbor,Baltimore,MD,112,0
-"Pier 5 Hotel Baltimore, Curio Collection by Hilton",Baltimore,MD,127,0
-Hilton Baltimore Inner Harbor,Baltimore,MD,127,1
-Hampton Inn & Suites Baltimore Inner Harbor,Baltimore,MD,87,1
-Embassy Suites by Hilton Baltimore Inner Harbor,Baltimore,MD,93,1
-"Home2 Suites by Hilton Baltimore Downtown, MD",Baltimore,MD,82,0
+"Pier 5 Hotel Baltimore, Curio Collection by Hilton",Baltimore,MD,127,1
+Hilton Baltimore Inner Harbor,Baltimore,MD,127,0
+Hampton Inn & Suites Baltimore Inner Harbor,Baltimore,MD,87,0
+Embassy Suites by Hilton Baltimore Inner Harbor,Baltimore,MD,93,0
+"Home2 Suites by Hilton Baltimore Downtown, MD",Baltimore,MD,82,1
 Hampton Inn Baltimore Bayview Campus,Baltimore,MD,94,1
-Inn at The Colonnade Baltimore - a DoubleTree by Hilton Hotel,Baltimore,MD,132,0
+Inn at The Colonnade Baltimore - a DoubleTree by Hilton Hotel,Baltimore,MD,132,1
 Hampton Inn Baltimore/White Marsh,Baltimore,MD,87,0
-Hilton Garden Inn Baltimore/White Marsh,Baltimore,MD,96,1
-"Home2 Suites by Hilton Baltimore / Aberdeen, MD",Aberdeen,MD,94,1
+Hilton Garden Inn Baltimore/White Marsh,Baltimore,MD,96,0
+"Home2 Suites by Hilton Baltimore / Aberdeen, MD",Aberdeen,MD,94,0
 Hilton Garden Inn Aberdeen,Aberdeen,MD,95,1
-Hampton Inn & Suites Baltimore/Aberdeen,Aberdeen,MD,85,0
-Homewood Suites by Hilton Boston-Billerica/Bedford/Burlington,Billerica,MA,90,1
+Hampton Inn & Suites Baltimore/Aberdeen,Aberdeen,MD,85,1
+Homewood Suites by Hilton Boston-Billerica/Bedford/Burlington,Billerica,MA,90,0
 DoubleTree by Hilton Hotel Boston - Bedford Glen,Bedford,MA,77,0
-Hampton Inn Boston Bedford Burlington,Billerica,MA,78,0
+Hampton Inn Boston Bedford Burlington,Billerica,MA,78,1
 "Homewood Suites by Hilton Boston/Cambridge-Arlington, MA",Arlington,MA,131,1
 Homewood Suites by Hilton Boston Marlborough,Berlin,MA,104,0
-DoubleTree Suites by Hilton Hotel Boston - Cambridge,Boston,MA,120,0
-Hilton Boston Back Bay,Boston,MA,136,1
+DoubleTree Suites by Hilton Hotel Boston - Cambridge,Boston,MA,126,1
+Hilton Boston Back Bay,Boston,MA,136,0
 Hampton Inn & Suites Boston Crosstown Center,Boston,MA,98,1
-DoubleTree by Hilton Hotel Boston - Downtown,Boston,MA,108,0
-Hilton Boston Downtown/Faneuil Hall,Boston,MA,130,1
-Embassy Suites by Hilton Boston at Logan Airport,Boston,MA,135,1
-DoubleTree by Hilton Boston Bayside,Boston,MA,96,1
-Hilton Boston Logan Airport,Boston,MA,132,0
-Hilton Garden Inn Boston Logan Airport,Boston,MA,121,0
+DoubleTree by Hilton Hotel Boston - Downtown,Boston,MA,108,1
+Hilton Boston Downtown/Faneuil Hall,Boston,MA,136,0
+Embassy Suites by Hilton Boston at Logan Airport,Boston,MA,135,0
+DoubleTree by Hilton Boston Bayside,Boston,MA,98,1
+Hilton Boston Logan Airport,Boston,MA,132,1
+Hilton Garden Inn Boston Logan Airport,Boston,MA,122,0
 Homewood Suites by Hilton Boston / Andover,Andover,MA,107,1
-Hampton Inn Boston/Braintree,Braintree,MA,103,0
+Hampton Inn Boston/Braintree,Braintree,MA,103,1
 DoubleTree by Hilton Hotel Boston-Andover,Andover,MA,119,1
-Hampton Inn Auburn,Auburn,MA,94,1
-Hampton Inn Amesbury,Amesbury,MA,87,1
-Hampton Inn Big Rapids,Big Rapids,MI,83,0
+Hampton Inn Auburn,Auburn,MA,98,0
+Hampton Inn Amesbury,Amesbury,MA,88,1
+Hampton Inn Big Rapids,Big Rapids,MI,83,1
 Hampton Inn & Suites Bay City,Bay City,MI,78,1
-DoubleTree by Hilton Hotel Bay City - Riverfront,Bay City,MI,111,1
-Hampton Inn Birch Run/Frankenmuth,Birch Run,MI,75,1
+DoubleTree by Hilton Hotel Bay City - Riverfront,Bay City,MI,111,0
+Hampton Inn Birch Run/Frankenmuth,Birch Run,MI,75,0
 Hampton Inn Battle Creek,Battle Creek,MI,90,0
 Hampton Inn Brighton,Brighton,MI,81,0
-Hampton Inn Detroit/Auburn Hills-North (Great Lakes Crossing Area),Auburn Hills,MI,108,0
-Hilton Garden Inn Benton Harbor / St. Joseph,Benton Harbor,MI,85,0
+Hampton Inn Detroit/Auburn Hills-North (Great Lakes Crossing Area),Auburn Hills,MI,108,1
+Hilton Garden Inn Benton Harbor / St. Joseph,Benton Harbor,MI,85,1
 Hampton Inn Detroit/Auburn Hills South,Auburn Hills,MI,85,0
-Embassy Suites by Hilton Auburn Hills,Auburn Hills,MI,99,0
-Hampton Inn & Suites Ann Arbor West,Ann Arbor,MI,94,1
-DoubleTree by Hilton Bloomfield Hills Detroit,Bloomfield Hills,MI,103,0
-Hampton Inn Ann Arbor-North,Ann Arbor,MI,99,0
+Embassy Suites by Hilton Auburn Hills,Auburn Hills,MI,99,1
+Hampton Inn & Suites Ann Arbor West,Ann Arbor,MI,94,0
+DoubleTree by Hilton Bloomfield Hills Detroit,Bloomfield Hills,MI,103,1
+Hampton Inn Ann Arbor-North,Ann Arbor,MI,99,1
 DoubleTree by Hilton Ann Arbor North,Ann Arbor,MI,118,0
-Hilton Garden Inn Ann Arbor,Ann Arbor,MI,109,1
+Hilton Garden Inn Ann Arbor,Ann Arbor,MI,109,0
 Hampton Inn Ann Arbor-South,Ann Arbor,MI,86,0
-Hampton Inn Detroit/Belleville-Airport Area,Belleville,MI,97,0
+Hampton Inn Detroit/Belleville-Airport Area,Belleville,MI,97,1
 Hampton Inn & Suites Allen Park,Allen Park,MI,100,0
-Embassy Suites by Hilton Minneapolis North,Brooklyn Center,MN,117,1
-Hilton Garden Inn Minneapolis Airport Mall of America,Bloomington,MN,82,1
+Embassy Suites by Hilton Minneapolis North,Brooklyn Center,MN,117,0
+Hilton Garden Inn Minneapolis Airport Mall of America,Bloomington,MN,82,0
 Hampton Inn Suites Minneapolis St Paul Arpt-Mall of America,Bloomington,MN,87,1
-Embassy Suites by Hilton Minneapolis Airport,Bloomington,MN,111,0
+Embassy Suites by Hilton Minneapolis Airport,Bloomington,MN,111,1
 Hilton Minneapolis-St. Paul Airport,Bloomington,MN,94,0
-Home2 Suites by Hilton Minneapolis Bloomington,Bloomington,MN,85,1
-Embassy Suites by Hilton Bloomington/Minneapolis,Bloomington,MN,115,0
+Home2 Suites by Hilton Minneapolis Bloomington,Bloomington,MN,85,0
+Embassy Suites by Hilton Bloomington/Minneapolis,Bloomington,MN,115,1
 Home2 Suites by Hilton Minneapolis Mall of America,Bloomington,MN,87,1
 Tru by Hilton Minneapolis Mall of America,Bloomington,MN,87,1
 Homewood Suites by Hilton Minneapolis-Mall Of America,Bloomington,MN,89,1
-Hilton Minneapolis/Bloomington,Bloomington,MN,90,0
-Hilton Garden Inn Minneapolis/Bloomington,Bloomington,MN,89,1
+Hilton Minneapolis/Bloomington,Bloomington,MN,90,1
+Hilton Garden Inn Minneapolis/Bloomington,Bloomington,MN,89,0
 Hampton Inn Minneapolis Bloomington West,Bloomington,MN,77,0
 Home2 Suites by Hilton Brooklyn Park Minneapolis,Brooklyn Park,MN,104,0
-Hampton Inn Brooklyn Park,Brooklyn Park,MN,91,1
-Hampton Inn Minneapolis/Burnsville,Burnsville,MN,96,0
-Hampton Inn & Suites Alexandria,Alexandria,MN,97,0
+Hampton Inn Brooklyn Park,Brooklyn Park,MN,91,0
+Hampton Inn Minneapolis/Burnsville,Burnsville,MN,96,1
+Hampton Inn & Suites Alexandria,Alexandria,MN,97,1
 Hampton Inn & Suites Duluth North / Mall Area,Duluth,MN,104,0
 DoubleTree by Hilton Hotel Bemidji,Bemidji,MN,126,1
 Hampton Inn & Suites Bemidji,Bemidji,MN,113,1
-Home2 Suites by Hilton Jackson Flowood Airport Area,Flowood,MS,98,0
+Home2 Suites by Hilton Jackson Flowood Airport Area,Flowood,MS,98,1
 Hampton Inn Jackson/Flowood (Airport Area) MS,Flowood,MS,89,0
-Hilton Garden Inn Jackson/Flowood,Flowood,MS,96,0
-Hampton Inn Canton,Canton,MS,76,0
+Hilton Garden Inn Jackson/Flowood,Flowood,MS,96,1
+Hampton Inn Canton,Canton,MS,76,1
 Hilton Garden Inn Jackson/Clinton,Clinton,MS,90,1
 Hampton Inn Jackson/Clinton,Clinton,MS,85,1
 Hampton Inn Brookhaven,Brookhaven,MS,82,0
-Hampton Inn & Suites Columbus,Columbus,MS,102,0
+Hampton Inn & Suites Columbus,Columbus,MS,102,1
 Hampton Inn Greenville,Greenville,MS,134,1
 Hampton Inn Cleveland,Cleveland,MS,101,0
-Hampton Inn & Suites D'Iberville Biloxi,DIberville,MS,169,1
+Hampton Inn & Suites D'Iberville Biloxi,DIberville,MS,150,0
 "Home2 Suites by Hilton Biloxi North/D'Iberville, MS",D'Iberville,MS,89,1
-Hampton Inn Biloxi/Ocean Springs,Biloxi,MS,82,0
-Hampton Inn Biloxi,Biloxi,MS,87,0
-Hampton Inn Batesville,Batesville,MS,74,0
+Hampton Inn Biloxi/Ocean Springs,Biloxi,MS,82,1
+Hampton Inn Biloxi,Biloxi,MS,91,0
+Hampton Inn Batesville,Batesville,MS,74,1
 DoubleTree by Hilton Hotel Biloxi,Biloxi,MS,99,1
-Hilton Garden Inn Biloxi,Biloxi,MS,89,1
+Hilton Garden Inn Biloxi,Biloxi,MS,92,1
 Hampton Inn Clarksdale,Clarksdale,MS,125,0
 Hampton Inn Corinth,Corinth,MS,102,1
-Hampton Inn & Suites Columbia (at the University of Missouri),Columbia,MO,107,0
-Hampton Inn Columbia,Columbia,MO,96,1
-The Broadway Columbia - a DoubleTree by Hilton Hotel,Columbia,MO,115,1
-Hilton Garden Inn Columbia,Columbia,MO,94,0
+Hampton Inn & Suites Columbia (at the University of Missouri),Columbia,MO,107,1
+Hampton Inn Columbia,Columbia,MO,96,0
+The Broadway Columbia - a DoubleTree by Hilton Hotel,Columbia,MO,115,0
+Hilton Garden Inn Columbia,Columbia,MO,94,1
 Hampton Inn Farmington,Farmington,MO,90,0
-Hampton Inn & Suites St. Louis/Chesterfield,Chesterfield,MO,91,1
-Hilton Garden Inn St. Louis/Chesterfield,Chesterfield,MO,71,1
-Hampton Inn St. Louis/Chesterfield,Chesterfield,MO,83,1
+Hampton Inn & Suites St. Louis/Chesterfield,Chesterfield,MO,91,0
+Hilton Garden Inn St. Louis/Chesterfield,Chesterfield,MO,71,0
+Hampton Inn St. Louis/Chesterfield,Chesterfield,MO,83,0
 DoubleTree by Hilton Hotel St. Louis - Chesterfield,Chesterfield,MO,105,1
 Homewood Suites by Hilton St. Louis-Chesterfield,Chesterfield,MO,113,0
 Hampton Inn and Suites Clayton/St Louis-Galleria Area,Clayton,MO,122,0
 Embassy Suites by Hilton St. Louis Airport,Bridgeton,MO,109,0
-Hampton Inn Clinton,Clinton,MO,93,1
+Hampton Inn Clinton,Clinton,MO,93,0
 Hampton Inn Branson - Branson Hills,Branson,MO,74,1
 Hilton Promenade at Branson Landing,Branson,MO,118,0
 Hilton Branson Convention Center,Branson,MO,109,1
-Hampton Inn Branson on the Strip,Branson,MO,76,0
-Hampton Inn Cape Girardeau I-55 East,Cape Girardeau,MO,98,0
+Hampton Inn Branson on the Strip,Branson,MO,76,1
+Hampton Inn Cape Girardeau I-55 East,Cape Girardeau,MO,98,1
 Hampton Inn Kansas City/Blue Springs,Blue Springs,MO,87,0
-Hampton Inn Belton/Kansas City area,Belton,MO,89,1
+Hampton Inn Belton/Kansas City area,Belton,MO,89,0
 Hilton Garden Inn Great Falls,Great Falls,MT,111,0
-Hampton Inn Great Falls,Great Falls,MT,99,0
+Hampton Inn Great Falls,Great Falls,MT,103,1
 Hampton Inn Helena,Helena,MT,102,1
-Home2 Suites by Hilton Helena,Helena,MT,84,0
+Home2 Suites by Hilton Helena,Helena,MT,84,1
 DoubleTree by Hilton Helena Downtown,Helena,MT,122,0
 Homewood Suites by Hilton Bozeman,Bozeman,MT,98,1
-Hampton Inn Bozeman,Bozeman,MT,84,0
-Hilton Garden Inn Bozeman,Bozeman,MT,126,1
+Hampton Inn Bozeman,Bozeman,MT,84,1
+Hilton Garden Inn Bozeman,Bozeman,MT,121,0
 Hampton Inn & Suites Billings West I-90,Billings,MT,113,1
 "Homewood Suites by Hilton Billings, MT",Billings,MT,122,1
 Hilton Garden Inn Billings,Billings,MT,99,1
 Home2 Suites by Hilton Billings,Billings,MT,115,0
-Hampton Inn Billings,Billings,MT,113,1
-DoubleTree by Hilton Hotel Billings,Billings,MT,115,0
-Hampton Inn Butte,Butte,MT,94,1
-DoubleTree by Hilton Hotel Missoula - Edgewater,Missoula,MT,103,1
+Hampton Inn Billings,Billings,MT,113,0
+DoubleTree by Hilton Hotel Billings,Billings,MT,119,1
+Hampton Inn Butte,Butte,MT,94,0
+DoubleTree by Hilton Hotel Missoula - Edgewater,Missoula,MT,103,0
 Hampton Inn Missoula,Missoula,MT,102,1
 Hilton Garden Inn Kalispell,Kalispell,MT,61,1
 Hampton Inn Kalispell,Kalispell,MT,74,1
 "Homewood Suites by Hilton Kalispell, MT",Kalispell,MT,96,1
-Tru by Hilton North Platte,North Platte,NE,69,0
+Tru by Hilton North Platte,North Platte,NE,74,1
 Hampton Inn North Platte,North Platte,NE,89,1
 Hampton Inn Kearney,Kearney,NE,104,1
 Hampton Inn Grand Island,Grand Island,NE,104,1
 Hampton Inn Norfolk,Norfolk,NE,96,0
-Hampton Inn Lincoln Airport,Lincoln,NE,82,0
-Hilton Garden Inn Lincoln Downtown/Haymarket,Lincoln,NE,107,0
-Hampton Inn & Suites Lincoln - Northeast I-80,Lincoln,NE,74,0
-Embassy Suites by Hilton Lincoln,Lincoln,NE,124,0
+Hampton Inn Lincoln Airport,Lincoln,NE,76,1
+Hilton Garden Inn Lincoln Downtown/Haymarket,Lincoln,NE,102,1
+Hampton Inn & Suites Lincoln - Northeast I-80,Lincoln,NE,74,1
+Embassy Suites by Hilton Lincoln,Lincoln,NE,124,1
 Hampton Inn Lincoln - South/Heritage Park,Lincoln,NE,81,1
-Embassy Suites by Hilton Omaha La Vista Hotel & Conference Center,La Vista,NE,124,0
+Embassy Suites by Hilton Omaha La Vista Hotel & Conference Center,La Vista,NE,129,1
 Hampton Inn & Suites Omaha Southwest-La Vista,La Vista,NE,91,1
 Hampton Inn Omaha Midtown-Aksarben Area,Omaha,NE,106,0
-DoubleTree by Hilton Omaha Southwest,Omaha,NE,117,0
-Hampton Inn Bellevue,Bellevue,NE,96,0
+DoubleTree by Hilton Omaha Southwest,Omaha,NE,117,1
+Hampton Inn Bellevue,Bellevue,NE,96,1
 DoubleTree by Hilton Hotel Omaha Downtown,Omaha,NE,82,1
-Hampton Inn & Suites Omaha-Downtown,Omaha,NE,84,0
-Embassy Suites by Hilton Omaha Downtown Old Market,Omaha,NE,115,1
-Hampton Inn Elko,Elko,NV,91,1
+Hampton Inn & Suites Omaha-Downtown,Omaha,NE,84,1
+Embassy Suites by Hilton Omaha Downtown Old Market,Omaha,NE,115,0
+Hampton Inn Elko,Elko,NV,91,0
 Home2 Suites by Hilton Elko,Elko,NV,85,1
 Hilton Garden Inn Elko,Elko,NV,81,1
 Hampton Inn & Suites Carson City,Carson City,NV,128,0
-Hampton Inn Las Vegas/Summerlin,Las Vegas,NV,82,0
+Hampton Inn Las Vegas/Summerlin,Las Vegas,NV,82,1
 Hampton Inn & Suites Las Vegas-Red Rock/Summerlin,Las Vegas,NV,127,0
-Embassy Suites by Hilton Convention Center Las Vegas,Las Vegas,NV,128,1
+Embassy Suites by Hilton Convention Center Las Vegas,Las Vegas,NV,128,0
 Hilton Garden Inn Las Vegas City Center,Las Vegas,NV,118,0
-Elara by Hilton Grand Vacations – Center Strip,Las Vegas,NV,135,0
 Embassy Suites by Hilton Las Vegas,Las Vegas,NV,119,0
-Hampton Inn Tropicana,Las Vegas,NV,102,1
-Hampton Inn & Suites Las Vegas Airport,Las Vegas,NV,98,0
+Hampton Inn Tropicana,Las Vegas,NV,106,0
+Hampton Inn & Suites Las Vegas Airport,Las Vegas,NV,98,1
 DoubleTree by Hilton Hotel Las Vegas Airport,Las Vegas,NV,107,1
 Hilton Garden Inn Las Vegas Strip South,Las Vegas,NV,112,1
-Hilton Lake Las Vegas Resort & Spa,Henderson,NV,110,1
+Hilton Lake Las Vegas Resort & Spa,Henderson,NV,111,1
 Hilton Garden Inn Las Vegas/Henderson,Henderson,NV,106,1
 Hampton Inn & Suites Las Vegas-Henderson,Henderson,NV,87,0
-Hampton Inn & Suites Las Vegas South,Henderson,NV,107,1
+Hampton Inn & Suites Las Vegas South,Henderson,NV,115,0
 Homewood Suites by Hilton Henderson South Las Vegas,Henderson,NV,111,0
-Hampton Inn Concord/Bow,Bow,NH,96,0
+Hampton Inn Concord/Bow,Bow,NH,96,1
 DoubleTree by Hilton Manchester Downtown,Manchester,NH,140,0
-Hilton Garden Inn Manchester Downtown,Manchester,NH,134,1
-Hampton Inn & Suites Tilton,Tilton,NH,106,1
-Hampton Inn & Suites Manchester-Bedford,Bedford,NH,105,1
-Homewood Suites by Hilton Manchester/Airport,Manchester,NH,113,0
+Hilton Garden Inn Manchester Downtown,Manchester,NH,135,0
+Hampton Inn & Suites Tilton,Tilton,NH,106,0
+Hampton Inn & Suites Manchester-Bedford,Bedford,NH,105,0
+Homewood Suites by Hilton Manchester/Airport,Manchester,NH,113,1
 DoubleTree by Hilton Nashua,Nashua,NH,110,1
 Hampton Inn Nashua,Nashua,NH,95,1
 Homewood Suites by Hilton Dover,Dover,NH,112,0
-Homewood Suites by Hilton Gateway Hills Nashua,Nashua,NH,106,1
-Hampton Inn Dover,Dover,NH,96,0
-Hampton Inn & Suites Exeter,Exeter,NH,91,0
-Hampton Inn Portsmouth Central,Portsmouth,NH,91,1
-Homewood Suites by Hilton Portsmouth,Portsmouth,NH,113,0
+Homewood Suites by Hilton Gateway Hills Nashua,Nashua,NH,108,0
+Hampton Inn Dover,Dover,NH,96,1
+Hampton Inn & Suites Exeter,Exeter,NH,91,1
+Hampton Inn Portsmouth Central,Portsmouth,NH,91,0
+Homewood Suites by Hilton Portsmouth,Portsmouth,NH,113,1
 Hampton Inn & Suites Portsmouth Downtown,Portsmouth,NH,136,0
-Hilton Garden Inn Portsmouth Downtown,Portsmouth,NH,109,0
-Hilton Garden Inn Hanover Lebanon,Lebanon,NH,131,0
+Hilton Garden Inn Portsmouth Downtown,Portsmouth,NH,109,1
+Hilton Garden Inn Hanover Lebanon,Lebanon,NH,131,1
 Hampton Inn & Suites North Conway,North Conway,NH,90,0
-Hampton Inn Littleton,Littleton,NH,180,0
+Hampton Inn Littleton,Littleton,NH,180,1
 Hampton Inn East Windsor,East Windsor,NJ,104,0
-Hampton Inn Bordentown,Bordentown,NJ,78,0
+Hampton Inn Bordentown,Bordentown,NJ,78,1
 Home2 Suites by Hilton Bordentown,Bordentown,NJ,108,0
 Hampton Inn Cranbury,Cranbury,NJ,102,0
-DoubleTree by Hilton Hotel Tinton Falls - Eatontown,Eatontown,NJ,118,1
-Hilton East Brunswick Hotel & Executive Meeting Center,East Brunswick,NJ,104,0
+DoubleTree by Hilton Hotel Tinton Falls - Eatontown,Eatontown,NJ,119,0
+Hilton East Brunswick Hotel & Executive Meeting Center,East Brunswick,NJ,104,1
 Hilton Garden Inn Bridgewater,Bridgewater,NJ,102,0
 Hampton Inn & Suites Bridgewater,Bridgewater,NJ,108,0
 Homewood Suites by Hilton Bridgewater/Branchburg,Branchburg,NJ,121,1
@@ -557,10 +556,10 @@ Homewood Suites by Hilton Newark-Cranford,Cranford,NJ,115,0
 Embassy Suites by Hilton Berkeley Heights,Berkeley Heights,NJ,152,1
 Hampton Inn Atlantic City/Absecon,Absecon,NJ,96,0
 Hampton Inn Clinton,Clinton,NJ,104,1
-Hilton Meadowlands,East Rutherford,NJ,114,1
-Hampton Inn Carlstadt-At The Meadowlands,Carlstadt,NJ,95,1
-"Homewood Suites by Hilton East Rutherford - Meadowlands, NJ",East Rutherford,NJ,135,0
-Homewood Suites by Hilton Dover - Rockaway,Dover,NJ,102,1
+Hilton Meadowlands,East Rutherford,NJ,115,1
+Hampton Inn Carlstadt-At The Meadowlands,Carlstadt,NJ,95,0
+"Homewood Suites by Hilton East Rutherford - Meadowlands, NJ",East Rutherford,NJ,137,1
+Homewood Suites by Hilton Dover - Rockaway,Dover,NJ,102,0
 Hampton Inn Denville/Rockaway/Parsippany,Denville,NJ,98,1
 Hilton Garden Inn Albuquerque Airport,Albuquerque,NM,87,0
 Homewood Suites by Hilton Albuquerque Uptown,Albuquerque,NM,102,0
@@ -569,13 +568,13 @@ Homewood Suites by Hilton Albuquerque Airport,Albuquerque,NM,87,0
 Hampton Inn & Suites Albuquerque Airport,Albuquerque,NM,85,0
 Hampton Inn Albuquerque-University/Midtown,Albuquerque,NM,91,1
 Embassy Suites by Hilton Albuquerque,Albuquerque,NM,122,0
-Home2 Suites by Hilton Albuquerque/Downtown-University,Albuquerque,NM,94,1
+Home2 Suites by Hilton Albuquerque/Downtown-University,Albuquerque,NM,107,0
 "Hotel Andaluz Albuquerque, Curio Collection by Hilton",Albuquerque,NM,149,0
-DoubleTree by Hilton Hotel Albuquerque,Albuquerque,NM,98,1
+DoubleTree by Hilton Hotel Albuquerque,Albuquerque,NM,98,0
 Hampton Inn & Suites Albuquerque North/I-25,Albuquerque,NM,104,1
 Homewood Suites by Hilton Albuquerque-Journal Center,Albuquerque,NM,94,1
-Hilton Garden Inn Albuquerque/Journal Center,Albuquerque,NM,91,0
-Hampton Inn & Suites Albuquerque-Coors Road,Albuquerque,NM,96,0
+Hilton Garden Inn Albuquerque/Journal Center,Albuquerque,NM,96,1
+Hampton Inn & Suites Albuquerque-Coors Road,Albuquerque,NM,91,0
 Hampton Inn Alamogordo,Alamogordo,NM,122,0
 Hampton Inn & Suites Artesia,Artesia,NM,122,0
 Hampton Inn & Suites Carlsbad,Carlsbad,NM,149,1
@@ -583,75 +582,75 @@ Hampton Inn & Suites Carlsbad,Carlsbad,NM,149,1
 Hampton Inn & Suites Farmington,Farmington,NM,81,1
 Hampton Inn Benson,Benson,NC,100,1
 Hampton Inn Asheboro,Asheboro,NC,85,0
-Hampton Inn & Suites Southern Pines-Pinehurst,Aberdeen,NC,116,1
-Hampton Inn High Point,Archdale,NC,109,1
+Hampton Inn & Suites Southern Pines-Pinehurst,Aberdeen,NC,116,0
+Hampton Inn High Point,Archdale,NC,109,0
 Hampton Inn Bermuda Run,Bermuda Run,NC,96,1
-Hampton Inn Charlotte-Belmont @ Montcross,Belmont,NC,96,1
+Hampton Inn Charlotte-Belmont @ Montcross,Belmont,NC,97,0
 DoubleTree by Hilton Hotel Atlantic Beach Oceanfront,Atlantic Beach,NC,84,0
-Hampton Inn & Suites Boone,Boone,NC,100,1
+Hampton Inn & Suites Boone,Boone,NC,100,0
 Hampton Inn Black Mountain,Black Mountain,NC,97,1
-Hampton Inn Asheville-Tunnel Rd.,Asheville,NC,85,0
-Homewood Suites by Hilton Asheville-Tunnel Road,Asheville,NC,113,1
+Hampton Inn Asheville-Tunnel Rd.,Asheville,NC,85,1
+Homewood Suites by Hilton Asheville-Tunnel Road,Asheville,NC,113,0
 Home2 Suites by Hilton Asheville Biltmore Village,Asheville,NC,93,1
-Hampton Inn & Suites Asheville Biltmore Village,Asheville,NC,119,1
-DoubleTree by Hilton Hotel Asheville - Biltmore,Asheville,NC,104,1
-Hilton Garden Inn  Asheville Downtown,Asheville,NC,138,0
+Hampton Inn & Suites Asheville Biltmore Village,Asheville,NC,119,0
+DoubleTree by Hilton Hotel Asheville - Biltmore,Asheville,NC,104,0
+Hilton Garden Inn  Asheville Downtown,Asheville,NC,140,1
 "The Foundry Hotel Asheville, Curio Collection by Hilton",Asheville,NC,153,1
-Hilton Asheville Biltmore Park,Asheville,NC,162,1
+Hilton Asheville Biltmore Park,Asheville,NC,155,0
 Hampton Inn & Suites Asheville Biltmore Area,Asheville,NC,113,1
 Hampton Inn & Suites Minot Airport,Minot,ND,102,0
-Hampton Inn Bismarck,Bismarck,ND,94,0
+Hampton Inn Bismarck,Bismarck,ND,94,1
 Home2 Suites by Hilton Bismarck,Bismarck,ND,97,0
 Hampton Inn & Suites Bismarck Northwest,Bismarck,ND,103,0
-Hampton Inn & Suites Dickinson,Dickinson,ND,84,1
-"Hampton Inn & Suites Jamestown, ND",Jamestown,ND,74,1
+Hampton Inn & Suites Dickinson,Dickinson,ND,84,0
+"Hampton Inn & Suites Jamestown, ND",Jamestown,ND,74,0
 Hampton Inn & Suites Williston,Williston,ND,106,1
-Hampton Inn & Suites Grand Forks,Grand Forks,ND,91,0
-Hilton Garden Inn Grand Forks-UND,Grand Forks,ND,77,0
+Hampton Inn & Suites Grand Forks,Grand Forks,ND,91,1
+Hilton Garden Inn Grand Forks-UND,Grand Forks,ND,79,1
 DoubleTree by Hilton West Fargo Sanford Medical Center Area,West Fargo,ND,89,0
 Homewood Suites by Hilton West Fargo Sanford Medical Center Area,West Fargo,ND,87,1
-Hampton Inn & Suites Fargo Medical Center,Fargo,ND,92,0
+Hampton Inn & Suites Fargo Medical Center,Fargo,ND,92,1
 "Home2 Suites by Hilton Fargo, ND",Fargo,ND,83,0
-Hilton Garden Inn Fargo,Fargo,ND,91,0
+Hilton Garden Inn Fargo,Fargo,ND,91,1
 Homewood Suites by Hilton Fargo,Fargo,ND,93,0
 Hampton Inn & Suites Ashland,Ashland,OH,91,0
 Home2 Suites by Hilton Dayton Beavercreek,Beavercreek,OH,93,1
-Hampton Inn Akron-Fairlawn,Akron,OH,89,0
-"Homewood Suites by Hilton Akron Fairlawn, OH",Akron,OH,93,0
+Hampton Inn Akron-Fairlawn,Akron,OH,89,1
+"Homewood Suites by Hilton Akron Fairlawn, OH",Akron,OH,93,1
 Hilton Akron/Fairlawn,Akron,OH,116,1
-DoubleTree by Hilton Hotel Akron - Fairlawn,Akron,OH,102,1
+DoubleTree by Hilton Hotel Akron - Fairlawn,Akron,OH,102,0
 Hampton Inn Akron-South,Akron,OH,87,0
 Hilton Garden Inn Akron,Akron,OH,104,1
-Hampton Inn Athens,Athens,OH,111,0
-Hampton Inn & Suites Alliance,Alliance,OH,82,0
+Hampton Inn Athens,Athens,OH,111,1
+Hampton Inn & Suites Alliance,Alliance,OH,82,1
 Hampton Inn & Suites Cleveland-Beachwood,Beachwood,OH,97,1
-DoubleTree by Hilton Hotel Cleveland East Beachwood,Beachwood,OH,90,1
+DoubleTree by Hilton Hotel Cleveland East Beachwood,Beachwood,OH,90,0
 Embassy Suites by Hilton Cleveland Beachwood,Beachwood,OH,99,0
-Home2 Suites by Hilton Cleveland Beachwood,Beachwood,OH,85,1
+Home2 Suites by Hilton Cleveland Beachwood,Beachwood,OH,85,0
 Homewood Suites by Hilton Cleveland-Beachwood,Beachwood,OH,113,1
 Home2 Suites by Hilton Blue Ash Cincinnati,Blue Ash,OH,98,1
-Hilton Garden Inn Cincinnati Blue Ash,Blue Ash,OH,99,1
-Hampton Inn Blue Ash/Cincinnati,Blue Ash,OH,96,0
-Embassy Suites by Hilton Cincinnati Northeast Blue Ash,Blue Ash,OH,115,1
+Hilton Garden Inn Cincinnati Blue Ash,Blue Ash,OH,104,1
+Hampton Inn Blue Ash/Cincinnati,Blue Ash,OH,96,1
+Embassy Suites by Hilton Cincinnati Northeast Blue Ash,Blue Ash,OH,111,1
 Hampton Inn Ashtabula,Austinburg,OH,102,0
 Hampton Inn & Suites Ada,Ada,OK,93,0
-Hampton Inn Chickasha,Chickasha,OK,111,1
-Home2 Suites by Hilton Edmond,Edmond,OK,96,1
+Hampton Inn Chickasha,Chickasha,OK,111,0
+Home2 Suites by Hilton Edmond,Edmond,OK,93,1
 Hampton Inn Oklahoma City/Edmond,Edmond,OK,81,1
-Hilton Garden Inn Edmond / Oklahoma City North,Edmond,OK,98,1
-Hilton Garden Inn Ardmore,Ardmore,OK,87,0
+Hilton Garden Inn Edmond / Oklahoma City North,Edmond,OK,98,0
+Hilton Garden Inn Ardmore,Ardmore,OK,87,1
 Hampton Inn & Suites Ardmore,Ardmore,OK,76,0
 Hampton Inn Duncan,Duncan,OK,96,0
-Home2 Suites by Hilton El Reno,El Reno,OK,69,1
-Hampton Inn El Reno,El Reno,OK,81,0
+Home2 Suites by Hilton El Reno,El Reno,OK,69,0
+Hampton Inn El Reno,El Reno,OK,81,1
 Homewood Suites by Hilton Tulsa-South,Broken Arrow,OK,91,1
 Hampton Inn Tulsa/Broken Arrow,Broken Arrow,OK,85,0
-Hilton Garden Inn Tulsa-Broken Arrow,Broken Arrow,OK,96,1
-Hampton Inn & Suites Tulsa/Catoosa,Catoosa,OK,88,0
-Homewood Suites by Hilton Tulsa Catoosa,Catoosa,OK,104,1
+Hilton Garden Inn Tulsa-Broken Arrow,Broken Arrow,OK,96,0
+Hampton Inn & Suites Tulsa/Catoosa,Catoosa,OK,88,1
+Homewood Suites by Hilton Tulsa Catoosa,Catoosa,OK,104,0
 Hampton Inn Clinton,Clinton,OK,99,0
 Hampton Inn & Suites Claremore,Claremore,OK,87,1
-Hampton Inn & Suites Altus,Altus,OK,109,0
+Hampton Inn & Suites Altus,Altus,OK,109,1
 Hilton Garden Inn Bartlesville,Bartlesville,OK,98,0
 Hampton Inn Bartlesville,Bartlesville,OK,91,0
 Hilton Garden Inn Bend,Bend,OR,114,0
@@ -662,394 +661,384 @@ Hampton Inn Eugene,Eugene,OR,111,1
 Hampton Inn & Suites Hood River,Hood River,OR,95,0
 Hilton Garden Inn Corvallis,Corvallis,OR,124,0
 Hampton Inn Portland/Clackamas,Clackamas,OR,83,1
-Hampton Inn Medford,Medford,OR,85,0
-Hilton Garden Inn Medford,Medford,OR,87,0
+Hampton Inn Medford,Medford,OR,89,0
+Hilton Garden Inn Medford,Medford,OR,93,1
 Hilton Garden Inn Portland/Lake Oswego,Lake Oswego,OR,96,0
 Hilton Garden Inn Portland/Beaverton,Beaverton,OR,87,1
-Homewood Suites by Hilton Hillsboro/Beaverton,Beaverton,OR,131,1
-DoubleTree by Hilton Hotel Portland - Beaverton,Beaverton,OR,113,0
-Hampton Inn & Suites Portland/Hillsboro-Evergreen Park,Hillsboro,OR,97,0
-"Embassy Suites by Hilton Portland Hillsboro, Oregon",Hillsboro,OR,118,0
-Hampton Inn &  Suites Grants Pass,Grants Pass,OR,91,1
+Homewood Suites by Hilton Hillsboro/Beaverton,Beaverton,OR,130,0
+DoubleTree by Hilton Hotel Portland - Beaverton,Beaverton,OR,121,1
+Hampton Inn & Suites Portland/Hillsboro-Evergreen Park,Hillsboro,OR,97,1
+"Embassy Suites by Hilton Portland Hillsboro, Oregon",Hillsboro,OR,120,0
+Hampton Inn &  Suites Grants Pass,Grants Pass,OR,91,0
 Hampton Inn & Suites Astoria,Astoria,OR,106,1
 Hampton Inn Bloomsburg,Bloomsburg,PA,107,1
 Hampton Inn Carlisle,Carlisle,PA,99,0
 Hampton Inn Altoona,Altoona,PA,104,0
-Hampton Inn Chambersburg,Chambersburg,PA,97,0
+Hampton Inn Chambersburg,Chambersburg,PA,97,1
 Hilton Garden Inn Allentown West,Breinigsville,PA,104,1
-"Homewood Suites by Hilton Allentown-West/Fogelsville, PA",Allentown,PA,104,0
+"Homewood Suites by Hilton Allentown-West/Fogelsville, PA",Allentown,PA,111,1
 Hilton Garden Inn Allentown Bethlehem Airport,Allentown,PA,94,0
-Homewood Suites by Hilton Allentown-Bethlehem Airport,Bethlehem,PA,94,1
-Hampton Inn & Suites Bethlehem,Bethlehem,PA,101,1
-Homewood Suites by Hilton Allentown Bethlehem Center Valley,Center Valley,PA,109,0
+Homewood Suites by Hilton Allentown-Bethlehem Airport,Bethlehem,PA,94,0
+Hampton Inn & Suites Bethlehem,Bethlehem,PA,101,0
+Homewood Suites by Hilton Allentown Bethlehem Center Valley,Center Valley,PA,109,1
 Hampton Inn Bedford,Bedford,PA,121,1
-Hampton Inn & Suites Blairsville,Blairsville,PA,91,0
+Hampton Inn & Suites Blairsville,Blairsville,PA,91,1
 Tru By Hilton Audubon Valley Forge,Audubon,PA,84,1
 Homewood Suites by Hilton Philadelphia-Valley Forge,Audubon,PA,121,0
 Hampton Inn & Suites Philadelphia/Bensalem,Bensalem,PA,97,0
-Hampton Inn Butler,Butler,PA,103,0
+Hampton Inn Butler,Butler,PA,104,1
 Hampton Inn Belle Vernon,Belle Vernon,PA,86,1
-Hampton Inn Pittsburgh-Bridgeville,Bridgeville,PA,88,0
+Hampton Inn Pittsburgh-Bridgeville,Bridgeville,PA,92,0
 Hilton Garden Inn Pittsburgh/Southpointe,Canonsburg,PA,108,0
-Homewood Suites by Hilton Pittsburgh-Southpointe,Canonsburg,PA,99,0
-Hampton Inn Coventry-Warwick Area,Coventry,RI,104,0
+Homewood Suites by Hilton Pittsburgh-Southpointe,Canonsburg,PA,99,1
+Hampton Inn Coventry-Warwick Area,Coventry,RI,104,1
 Hampton Inn South Kingstown - Newport Area,South Kingstown,RI,100,0
 "NYLO Providence Warwick Hotel, Tapestry Collection by Hilton",Warwick,RI,102,0
-Homewood Suites by Hilton Providence-Warwick,Warwick,RI,102,0
-"Homewood Suites by Hilton Newport Middletown, RI",Middletown,RI,106,0
-Hampton Inn & Suites Providence/Warwick-Airport,Warwick,RI,91,1
+Homewood Suites by Hilton Providence-Warwick,Warwick,RI,102,1
+"Homewood Suites by Hilton Newport Middletown, RI",Middletown,RI,106,1
+Hampton Inn & Suites Providence/Warwick-Airport,Warwick,RI,91,0
 Hampton Inn & Suites Newport/Middletown,Middletown,RI,89,1
-Hilton Garden Inn Providence Airport/Warwick,Warwick,RI,109,1
+Hilton Garden Inn Providence Airport/Warwick,Warwick,RI,109,0
 Hilton Providence,Providence,RI,149,0
-Hilton Garden Inn Providence,Providence,RI,137,0
+Hilton Garden Inn Providence,Providence,RI,145,0
 Hampton Inn & Suites Providence Downtown,Providence,RI,140,1
-Homewood Suites by Hilton Providence Downtown,Providence,RI,154,0
-Hampton Inn Pawtucket,Pawtucket,RI,96,1
-Home2 Suites by Hilton Smithfield Providence,Smithfield,RI,115,1
-Hampton Inn & Suites Providence/Smithfield,Smithfield,RI,100,0
-Hampton Inn Aiken,Aiken,SC,94,1
+Homewood Suites by Hilton Providence Downtown,Providence,RI,154,1
+Hampton Inn Pawtucket,Pawtucket,RI,100,0
+Home2 Suites by Hilton Smithfield Providence,Smithfield,RI,115,0
+Hampton Inn & Suites Providence/Smithfield,Smithfield,RI,100,1
+Hampton Inn Aiken,Aiken,SC,94,0
 Hilton Garden Inn Aiken,Aiken,SC,99,1
-Hampton Inn Camden,Camden,SC,122,1
+Hampton Inn Camden,Camden,SC,122,0
 Hampton Inn & Suites Clinton - I-26,Clinton,SC,104,0
-Hampton Inn & Suites Charleston/West Ashley,Charleston,SC,104,0
+Hampton Inn & Suites Charleston/West Ashley,Charleston,SC,106,1
 Home2 Suites Charleston West Ashley,Charleston,SC,115,0
 Hampton Inn Charleston - Daniel Island,Charleston,SC,113,0
-Hampton Inn Anderson/ Alliance Business Park,Anderson,SC,84,0
+Hampton Inn Anderson/ Alliance Business Park,Anderson,SC,84,1
 Home2 Suites by Hilton Beaufort,Beaufort,SC,101,1
-Hampton Inn Beaufort,Beaufort,SC,83,0
-Hilton Garden Inn Beaufort,Beaufort,SC,93,0
-Hilton Garden Inn Charleston Waterfront/Downtown,Charleston,SC,162,1
-Homewood Suites by Hilton Charleston Historic District,Charleston,SC,153,0
+Hampton Inn Beaufort,Beaufort,SC,84,0
+Hilton Garden Inn Beaufort,Beaufort,SC,93,1
+Hilton Garden Inn Charleston Waterfront/Downtown,Charleston,SC,162,0
+Homewood Suites by Hilton Charleston Historic District,Charleston,SC,153,1
 Hampton Inn Charleston-Historic District,Charleston,SC,166,1
-Embassy Suites by Hilton Charleston Historic District,Charleston,SC,175,1
-Hilton Garden Inn Anderson,Anderson,SC,107,1
-Hampton Inn Anderson,Anderson,SC,96,0
+Embassy Suites by Hilton Charleston Historic District,Charleston,SC,175,0
+Hilton Garden Inn Anderson,Anderson,SC,107,0
+Hampton Inn Anderson,Anderson,SC,96,1
 Hampton Inn & Suites Bluffton-Sun City,Bluffton,SC,104,0
 Hampton Inn Clemson-University Area,Clemson,SC,99,0
-Hampton Inn Mitchell,Mitchell,SD,90,1
+Hampton Inn Mitchell,Mitchell,SD,90,0
 Hampton Inn & Suites Aberdeen,Aberdeen,SD,105,0
-Hampton Inn & Suites Brookings,Brookings,SD,104,1
-Hampton Inn Sioux Falls,Sioux Falls,SD,98,1
+Hampton Inn & Suites Brookings,Brookings,SD,100,1
+Hampton Inn Sioux Falls,Sioux Falls,SD,98,0
 Hilton Garden Inn Sioux Falls South,Sioux Falls,SD,113,0
 Hampton Inn & Suites Southwest/Sioux Falls,Sioux Falls,SD,96,1
-Homewood Suites by Hilton Sioux Falls,Sioux Falls,SD,94,1
+Homewood Suites by Hilton Sioux Falls,Sioux Falls,SD,94,0
 "Home2 Suites by Hilton Sioux Falls/ Sanford Medical Center, SD",Sioux Falls,SD,122,1
 Hilton Garden Inn Sioux Falls Downtown,Sioux Falls,SD,126,1
 Home2 Suites by Hilton Rapid City,Box Elder,SD,43,0
-Hampton Inn & Suites Rapid City Rushmore,Rapid City,SD,74,0
-Hilton Garden Inn Rapid City,Rapid City,SD,59,0
+Hampton Inn & Suites Rapid City Rushmore,Rapid City,SD,74,1
+Hilton Garden Inn Rapid City,Rapid City,SD,59,1
 Tru by Hilton Rapid City Rushmore,Rapid City,SD,51,1
 Hampton Inn Rapid City,Rapid City,SD,53,0
-"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",Rapid City,SD,55,1
-DoubleTree by Hilton Deadwood at Cadillac Jack's,Deadwood,SD,38,0
-Tru by Hilton Deadwood,Deadwood,SD,38,1
+"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",Rapid City,SD,55,0
+DoubleTree by Hilton Deadwood at Cadillac Jack's,Deadwood,SD,38,1
+Tru by Hilton Deadwood,Deadwood,SD,38,0
 Hampton Inn Deadwood at Tin Lizzie Gaming Resort,Deadwood,SD,38,1
 Hampton Inn Spearfish,Spearfish,SD,104,0
-Hampton Inn North Sioux City,North Sioux City,SD,72,1
-Hampton Inn Nashville-I-24 Hickory Hollow,Antioch,TN,96,0
-Hilton Garden Inn Nashville Brentwood,Brentwood,TN,127,0
+Hampton Inn North Sioux City,North Sioux City,SD,72,0
+Hampton Inn Nashville-I-24 Hickory Hollow,Antioch,TN,102,0
+Hilton Garden Inn Nashville Brentwood,Brentwood,TN,127,1
 Hilton Brentwood/Nashville Suites,Brentwood,TN,112,1
 Homewood Suites by Hilton Nashville-Brentwood,Brentwood,TN,99,1
-Hampton Inn Nashville/Brentwood-I-65S,Brentwood,TN,107,1
-Hampton Inn Chattanooga West/Lookout Mountain,Chattanooga,TN,100,1
-Hilton Garden Inn Chattanooga Downtown,Chattanooga,TN,118,0
-DoubleTree by Hilton Hotel Chattanooga Downtown,Chattanooga,TN,119,0
+Hampton Inn Nashville/Brentwood-I-65S,Brentwood,TN,116,0
+Hampton Inn Chattanooga West/Lookout Mountain,Chattanooga,TN,100,0
+Hilton Garden Inn Chattanooga Downtown,Chattanooga,TN,118,1
+DoubleTree by Hilton Hotel Chattanooga Downtown,Chattanooga,TN,119,1
 Hampton Inn & Suites Chattanooga/Downtown,Chattanooga,TN,119,1
 Hampton Inn Chattanooga East Ridge,Chattanooga,TN,98,1
-Home2 Suites by Hilton Chattanooga Hamilton Place,Chattanooga,TN,102,0
-Hampton Inn & Suites Chattanooga/Hamilton Place,Chattanooga,TN,100,0
+Home2 Suites by Hilton Chattanooga Hamilton Place,Chattanooga,TN,102,1
+Hampton Inn & Suites Chattanooga/Hamilton Place,Chattanooga,TN,107,1
 Hilton Garden Inn Chattanooga/Hamilton Place,Chattanooga,TN,113,1
 Embassy Suites by Hilton Chattanooga Hamilton Place,Chattanooga,TN,127,1
-Hampton Inn Athens,Athens,TN,100,0
-Hampton Inn Caryville-I-75/Cove Lake-State Park,Caryville,TN,84,0
+Hampton Inn Athens,Athens,TN,100,1
+Hampton Inn Caryville-I-75/Cove Lake-State Park,Caryville,TN,84,1
 Hilton Knoxville Airport,Alcoa,TN,124,0
-Hampton Inn Knoxville-Airport,Alcoa,TN,83,0
-Hampton Inn & Suites Memphis-Wolfchase Galleria,Bartlett,TN,118,1
-Hampton Inn Bristol,Bristol,TN,111,0
-Hilton Garden Inn Abilene,Abilene,TX,106,1
-Hampton Inn Abilene,Abilene,TX,78,1
+Hampton Inn Knoxville-Airport,Alcoa,TN,88,0
+Hampton Inn & Suites Memphis-Wolfchase Galleria,Bartlett,TN,113,1
+Hampton Inn Bristol,Bristol,TN,111,1
+Hilton Garden Inn Abilene,Abilene,TX,107,1
+Hampton Inn Abilene,Abilene,TX,86,0
 Home2 Suites by Hilton Abilene,Abilene,TX,99,0
 Hampton Inn & Suites Abilene I-20,Abilene,TX,87,0
 Hilton Garden Inn Dallas/Addison,Addison,TX,89,0
-Homewood Suites by Hilton Dallas/Addison,Addison,TX,90,0
-Hampton Inn Dallas-Addison,Addison,TX,72,0
-Home2 Suites by Hilton Dallas Addison,Addison,TX,98,0
+Homewood Suites by Hilton Dallas/Addison,Addison,TX,90,1
+Hampton Inn Dallas-Addison,Addison,TX,76,1
+Home2 Suites by Hilton Dallas Addison,Addison,TX,98,1
 Hilton Garden Inn Dallas/Allen,Allen,TX,79,0
-Homewood Suites by Hilton Dallas/Allen,Allen,TX,88,0
-Hampton Inn & Suites-Dallas Allen,Allen,TX,79,0
+Homewood Suites by Hilton Dallas/Allen,Allen,TX,89,1
+Hampton Inn & Suites-Dallas Allen,Allen,TX,83,0
 Hampton Inn & Suites Amarillo East,Amarillo,TX,100,1
 Embassy Suites by Hilton Amarillo Downtown,Amarillo,TX,96,1
 Hampton Inn Alpine,Alpine,TX,109,0
-Hampton Inn & Suites Amarillo West,Amarillo,TX,81,1
+Hampton Inn & Suites Amarillo West,Amarillo,TX,81,0
 Homewood Suites by Hilton Amarillo,Amarillo,TX,76,1
-Home2 Suites by Hilton Amarillo,Amarillo,TX,78,0
+Home2 Suites by Hilton Amarillo,Amarillo,TX,78,1
 Hilton Garden Inn Amarillo,Amarillo,TX,84,1
 Hampton Inn Alice,Alice,TX,82,0
-Tru by Hilton Lehi,Lehi,UT,69,0
+Tru by Hilton Lehi,Lehi,UT,69,1
 Hilton Garden Inn Lehi,Lehi,UT,85,0
-Home2 Suites by Hilton Lehi/Thanksgiving Point,Lehi,UT,87,1
-Hampton Inn Lehi-Thanksgiving Point,Lehi,UT,87,0
+Home2 Suites by Hilton Lehi/Thanksgiving Point,Lehi,UT,87,0
+Hampton Inn Lehi-Thanksgiving Point,Lehi,UT,87,1
 Hampton Inn Draper Salt Lake City,Draper,UT,88,0
-Homewood Suites by Hilton Salt Lake City Draper,Draper,UT,85,0
+Homewood Suites by Hilton Salt Lake City Draper,Draper,UT,89,1
 Hampton Inn Moab,Moab,UT,67,1
 Homewood Suites by Hilton Moab,Moab,UT,82,1
-Hampton Inn Salt Lake City Cottonwood,Holladay,UT,126,0
-Homewood Suites by Hilton Salt Lake City-Midvale/Sandy,Midvale,UT,110,1
-Tru by Hilton Salt Lake City Midvale,Midvale,UT,87,1
+Hampton Inn Salt Lake City Cottonwood,Holladay,UT,126,1
+Homewood Suites by Hilton Salt Lake City-Midvale/Sandy,Midvale,UT,110,0
+Tru by Hilton Salt Lake City Midvale,Midvale,UT,87,0
 Hampton Inn & Suites Salt Lake City/Farmington,Farmington,UT,86,0
 "Home2 Suites by Hilton Salt Lake City/Layton, UT",Layton,UT,89,0
 Hilton Garden Inn Salt Lake City/Layton,Layton,UT,84,1
 Hampton Inn Salt Lake City/Layton,Layton,UT,87,0
-Hampton Inn Cedar City,Cedar City,UT,72,0
-Hampton Inn Brigham City,Brigham City,UT,78,0
-Hampton Inn & Suites Logan,Logan,UT,91,0
-Hampton Inn Kanab,Kanab,UT,69,1
-Hampton Inn Colchester,Colchester,VT,105,1
+Hampton Inn Cedar City,Cedar City,UT,72,1
+Hampton Inn Brigham City,Brigham City,UT,78,1
+Hampton Inn & Suites Logan,Logan,UT,91,1
+Hampton Inn Kanab,Kanab,UT,69,0
+Hampton Inn Colchester,Colchester,VT,105,0
 Hampton Inn St. Albans,St Albans,VT,110,0
 Homewood Suites by Hilton Burlington,South Burlington,VT,158,1
 DoubleTree by Hilton Burlington Vermont,South Burlington,VT,113,1
 Hilton Garden Inn Burlington Downtown,Burlington,VT,134,0
 Hilton Burlington Lake Champlain,Burlington,VT,126,1
-Hampton Inn White River Junction,White River Junction,VT,102,1
+Hampton Inn White River Junction,White River Junction,VT,102,0
 Hampton Inn Rutland,Rutland,VT,118,0
-Hampton Inn & Suites Manchester,Manchester,VT,126,0
+Hampton Inn & Suites Manchester,Manchester,VT,126,1
 Hampton Inn Brattleboro,Brattleboro,VT,94,1
-Hampton Inn Bennington,Bennington,VT,132,1
+Hampton Inn Bennington,Bennington,VT,132,0
 Hampton Inn & Suites Fort Belvoir Alexandria South,Alexandria,VA,94,0
 Hilton Garden Inn Dulles North,Ashburn,VA,90,1
 Homewood Suites by Hilton Dulles-North/Loudoun,Ashburn,VA,93,0
-Hilton Alexandria Mark Center,Alexandria,VA,96,1
-Hampton Inn & Suites Alexandria Old Town Area South,Alexandria,VA,102,1
-Embassy Suites by Hilton Alexandria Old Town,Alexandria,VA,125,1
+Hilton Alexandria Mark Center,Alexandria,VA,96,0
+Hampton Inn & Suites Alexandria Old Town Area South,Alexandria,VA,106,1
+Embassy Suites by Hilton Alexandria Old Town,Alexandria,VA,130,1
 Hilton Garden Inn Alexandria Old Town King St. Metro,Alexandria,VA,121,1
 Hilton Alexandria Old Town,Alexandria,VA,107,0
-Hampton Inn Alexandria-Old Town/King St. Metro,Alexandria,VA,115,1
-Hampton Inn Alexandria/Pentagon South,Alexandria,VA,103,0
-"Homewood Suites by Hilton Alexandria/Pentagon South, VA",Alexandria,VA,115,1
-Hilton Garden Inn Arlington Shirlington,Arlington,VA,99,1
-Hilton Arlington,Arlington,VA,95,1
+Hampton Inn Alexandria-Old Town/King St. Metro,Alexandria,VA,116,0
+Hampton Inn Alexandria/Pentagon South,Alexandria,VA,106,1
+"Homewood Suites by Hilton Alexandria/Pentagon South, VA",Alexandria,VA,115,0
+Hilton Garden Inn Arlington Shirlington,Arlington,VA,99,0
+Hilton Arlington,Arlington,VA,98,0
 Hilton Crystal City at Washington Reagan National Airport,Arlington,VA,111,1
-Hilton Garden Inn Reagan National Airport,Arlington,VA,96,1
+Hilton Garden Inn Reagan National Airport,Arlington,VA,100,1
 Hampton Inn & Suites Reagan National Airport,Arlington,VA,107,0
-Embassy Suites by Hilton Crystal City National Airport,Arlington,VA,108,1
-DoubleTree by Hilton Hotel Washington DC - Crystal City,Arlington,VA,97,1
+Embassy Suites by Hilton Crystal City National Airport,Arlington,VA,108,0
+DoubleTree by Hilton Hotel Washington DC - Crystal City,Arlington,VA,97,0
 Hilton Garden Inn Arlington/Courthouse Plaza,Arlington,VA,91,1
-Homewood Suites by Hilton Arlington Rosslyn Key Bridge,Arlington,VA,111,1
-Hilton Garden Inn Seattle Bellevue Downtown,Bellevue,WA,128,1
+Homewood Suites by Hilton Arlington Rosslyn Key Bridge,Arlington,VA,111,0
+Hilton Garden Inn Seattle Bellevue Downtown,Bellevue,WA,128,0
 Hilton Bellevue,Bellevue,WA,130,1
-Hampton Inn & Suites Bellevue Downtown-Seattle,Bellevue,WA,96,1
+Hampton Inn & Suites Bellevue Downtown-Seattle,Bellevue,WA,96,0
 Embassy Suites by Hilton Seattle Bellevue,Bellevue,WA,122,1
 Homewood Suites by Hilton Seattle-Issaquah,Issaquah,WA,119,1
 Hilton Garden Inn Seattle/Issaquah,Issaquah,WA,102,0
 "Hampton Inn & Suites Seattle/Kent,WA",Kent,WA,130,1
-Hampton Inn & Suites Bremerton,Bremerton,WA,98,1
+Hampton Inn & Suites Bremerton,Bremerton,WA,98,0
 "Hilton Garden Inn Seattle/Bothell, WA",Bothell,WA,107,1
-Hampton Inn & Suites Seattle/Federal Way,Federal Way,WA,113,1
+Hampton Inn & Suites Seattle/Federal Way,Federal Way,WA,113,0
 Hampton Inn Seattle/Everett,Everett,WA,96,0
-Hampton Inn & Suites DuPont,Dupont,WA,94,1
-Home2 Suites by Hilton DuPont,Dupont,WA,93,1
-Hampton Inn & Suites Burlington,Burlington,WA,94,0
+Hampton Inn & Suites DuPont,Dupont,WA,94,0
+Home2 Suites by Hilton DuPont,Dupont,WA,93,0
+Hampton Inn & Suites Burlington,Burlington,WA,94,1
 "The Chrysalis Inn & Spa Bellingham, Curio Collection by Hilton",Bellingham,WA,162,0
-Hampton Inn & Suites Leavenworth,Leavenworth,WA,93,0
+Hampton Inn & Suites Leavenworth,Leavenworth,WA,93,1
 Home2 Suites by Hilton Bellingham Airport,Bellingham,WA,122,0
-Hampton Inn Ellensburg,Ellensburg,WA,93,0
-Hilton Garden Inn Tri-Cities/Kennewick,Kennewick,WA,104,1
+Hampton Inn Ellensburg,Ellensburg,WA,93,1
+Hilton Garden Inn Tri-Cities/Kennewick,Kennewick,WA,104,0
 Hampton Inn Kennewick at Southridge,Kennewick,WA,104,1
 Hampton Inn Buckhannon,Buckhannon,WV,80,0
 Hampton Inn Elkins,Elkins,WV,85,0
-Hilton Garden Inn Clarksburg,Clarksburg,WV,82,1
-Hampton Inn Bridgeport/Clarksburg,Bridgeport,WV,82,1
-Hampton Inn Lewisburg,Lewisburg,WV,96,1
+Hilton Garden Inn Clarksburg,Clarksburg,WV,82,0
+Hampton Inn Bridgeport/Clarksburg,Bridgeport,WV,82,0
+Hampton Inn Lewisburg,Lewisburg,WV,96,0
 Hampton Inn Fairmont,Fairmont,WV,91,0
-Embassy Suites by Hilton Charleston,Charleston,WV,135,0
+Embassy Suites by Hilton Charleston,Charleston,WV,135,1
 Hampton Inn Charleston-Downtown,Charleston,WV,94,1
 Hampton Inn Beckley,Beckley,WV,101,1
 Hampton Inn Parkersburg-Mineral Wells,Mineral Wells,WV,74,0
-Hampton Inn Charleston-Southridge,Charleston,WV,106,1
+Hampton Inn Charleston-Southridge,Charleston,WV,106,0
 Hampton Inn Winfield/Teays Valley,Hurricane,WV,121,1
 Hampton Inn Huntington/Barboursville,Barboursville,WV,92,1
-Hampton Inn Huntington University Area,Huntington,WV,74,0
-DoubleTree by Hilton Huntington,Huntington,WV,79,0
-Hampton Inn Martinsburg South-Inwood,Inwood,WV,92,1
+Hampton Inn Huntington University Area,Huntington,WV,74,1
+DoubleTree by Hilton Huntington,Huntington,WV,79,1
+Hampton Inn Martinsburg South-Inwood,Inwood,WV,92,0
 Hilton Garden Inn Martinsburg,Martinsburg,WV,109,0
-Hampton Inn Martinsburg,Martinsburg,WV,96,0
+Hampton Inn Martinsburg,Martinsburg,WV,96,1
 Home2 Suites by Hilton Charles Town,Charles Town,WV,121,0
 Hampton Inn & Suites Charles Town,Charles Town,WV,111,0
 Hampton Inn Fond du Lac,Fond du Lac,WI,92,1
-Home2 Suites by Hilton Appleton,Grand Chute,WI,100,1
-DoubleTree by Hilton Appleton,Appleton,WI,82,1
-Hampton Inn Appleton-Fox River Mall Area,Appleton,WI,80,0
+Home2 Suites by Hilton Appleton,Grand Chute,WI,100,0
+DoubleTree by Hilton Appleton,Appleton,WI,82,0
+Hampton Inn Appleton-Fox River Mall Area,Appleton,WI,80,1
 Hampton Inn & Suites Grafton,Grafton,WI,96,1
-Hampton Inn Green Bay,Green Bay,WI,74,1
+Hampton Inn Green Bay,Green Bay,WI,74,0
 Hampton Inn Milwaukee/Brookfield,Brookfield,WI,80,0
-DoubleTree by Hilton Hotel Milwaukee - Brookfield,Brookfield,WI,74,0
+DoubleTree by Hilton Hotel Milwaukee - Brookfield,Brookfield,WI,74,1
 Embassy Suites by Hilton Milwaukee Brookfield,Brookfield,WI,113,1
-Hampton Inn Green Bay Downtown,Green Bay,WI,87,0
-Hampton Inn & Suites Milwaukee/Franklin,Franklin,WI,93,1
-Hampton Inn Elkhorn Lake Geneva Area,Elkhorn,WI,77,0
-Hampton Inn Burlington,Burlington,WI,82,1
+Hampton Inn Green Bay Downtown,Green Bay,WI,87,1
+Hampton Inn & Suites Milwaukee/Franklin,Franklin,WI,93,0
+Hampton Inn Elkhorn Lake Geneva Area,Elkhorn,WI,77,1
+Hampton Inn Burlington,Burlington,WI,82,0
 Hampton Inn Beloit,Beloit,WI,102,1
-Home2 Suites by Hilton Beloit,Beloit,WI,98,0
-Home2 Suites by Hilton Eau Claire South,Eau Claire,WI,83,1
+Home2 Suites by Hilton Beloit,Beloit,WI,92,0
+Home2 Suites by Hilton Eau Claire South,Eau Claire,WI,83,0
 Hampton Inn & Suites Chippewa Falls,Chippewa Falls,WI,96,0
 The Lismore Hotel Eau Claire - a DoubleTree by Hilton Hotel,Eau Claire,WI,104,0
 Hampton Inn Eau Claire,Eau Claire,WI,74,1
 Hilton Garden Inn Casper,Casper,WY,82,0
-Hampton Inn & Suites Casper,Casper,WY,83,1
+Hampton Inn & Suites Casper,Casper,WY,83,0
 Hampton Inn & Suites Riverton,Riverton,WY,113,1
 Hampton Inn Rawlins,Rawlins,WY,76,1
 Hampton Inn & Suites Buffalo,Buffalo,WY,78,1
 Hampton Inn & Suites Douglas,Douglas,WY,118,0
-Hampton Inn Sheridan,Sheridan,WY,87,1
-Hampton Inn Gillette,Gillette,WY,74,0
-Home2 Suites by Hilton Gillette,Gillette,WY,84,1
+Hampton Inn Sheridan,Sheridan,WY,87,0
+Hampton Inn Gillette,Gillette,WY,83,0
+Home2 Suites by Hilton Gillette,Gillette,WY,84,0
 Hampton Inn & Suites Pinedale,Pinedale,WY,94,0
 Hampton Inn Rock Springs,Rock Springs,WY,91,1
-Homewood Suites by Hilton Rock Springs,Rock Springs,WY,89,0
+Homewood Suites by Hilton Rock Springs,Rock Springs,WY,89,1
 Hilton Garden Inn Laramie,Laramie,WY,90,1
-Hampton Inn Laramie,Laramie,WY,74,0
+Hampton Inn Laramie,Laramie,WY,77,1
 Hampton Inn & Suites Green River,Green River,WY,87,0
-Homewood Suites by Hilton Jackson,Jackson,WY,132,0
-Hampton Inn Jackson Hole,Jackson,WY,129,0
+Homewood Suites by Hilton Jackson,Jackson,WY,132,1
+Hampton Inn Jackson Hole,Jackson,WY,129,1
 Tru by Hilton Cheyenne,Cheyenne,WY,81,0
-Hampton Inn Evanston,Evanston,WY,90,1
-Hampton Inn & Suites by Hilton Edmonton/West,Edmonton,AB,111,0
+Hampton Inn Evanston,Evanston,WY,90,0
+Hampton Inn & Suites by Hilton Edmonton/West,Edmonton,AB,111,1
 Hilton Garden Inn West Edmonton,Edmonton,AB,110,0
 "Home2 Suites by Hilton West Edmonton, Alberta, Canada",Edmonton,AB,104,0
-DoubleTree by Hilton Hotel West Edmonton,Edmonton,AB,124,0
-Hampton Inn & Suites by Hilton Grande Prairie,Grande Prairie,AB,119,1
-Tru by Hilton Edmonton Windermere,Edmonton,AB,78,0
+DoubleTree by Hilton Hotel West Edmonton,Edmonton,AB,124,1
+Hampton Inn & Suites by Hilton Grande Prairie,Grande Prairie,AB,119,0
+Tru by Hilton Edmonton Windermere,Edmonton,AB,78,1
 DoubleTree by Hilton Edmonton Downtown,Edmonton,AB,95,0
 Home2 Suites by Hilton Edmonton South,Edmonton,AB,95,1
-"Hampton Inn by Hilton Edmonton/South, Alberta, Canada",Edmonton,AB,85,0
+"Hampton Inn by Hilton Edmonton/South, Alberta, Canada",Edmonton,AB,85,1
 Hampton Inn by Hilton Fort Saskatchewan,Fort Saskatchewan,AB,91,1
-Hampton Inn & Suites by Hilton Airdrie,Airdrie,AB,91,0
-Hampton Inn by Hilton Calgary Airport North,Calgary,AB,91,0
-"Homewood Suites by Hilton® Calgary-Airport, Alberta, Canada",Calgary,AB,100,0
+Hampton Inn & Suites by Hilton Airdrie,Airdrie,AB,91,1
+Hampton Inn by Hilton Calgary Airport North,Calgary,AB,91,1
 Hampton Inn & Suites By Hilton Calgary- University Northwest,Calgary,AB,109,0
-Hilton Garden Inn Calgary Airport,Calgary,AB,95,1
+Hilton Garden Inn Calgary Airport,Calgary,AB,95,0
 Hampton Inn & Suites by Hilton Calgary-Airport,Calgary,AB,96,1
-Homewood Suites by Hilton Calgary Downtown,Calgary,AB,123,1
-Hilton Garden Inn Calgary Downtown,Calgary,AB,119,1
-Hilton Whistler Resort & Spa,Whistler,BC,257,0
+Homewood Suites by Hilton Calgary Downtown,Calgary,AB,123,0
+Hilton Garden Inn Calgary Downtown,Calgary,AB,119,0
+Hilton Whistler Resort & Spa,Whistler,BC,257,1
 Home2 Suites by Hilton Fort St. John,Fort St. John,BC,122,1
 Hampton Inn & Suites by Hilton Vancouver-Downtown,Vancouver,BC,184,0
-Hampton Inn by Hilton Vancouver-Airport/Richmond,Richmond,BC,136,0
-Hilton Vancouver Metrotown,Burnaby,BC,154,0
+Hampton Inn by Hilton Vancouver-Airport/Richmond,Richmond,BC,140,0
+Hilton Vancouver Metrotown,Burnaby,BC,154,1
 Hilton Vancouver Airport,Richmond,BC,222,0
-Hampton Inn by Hilton Kamloops,Kamloops,BC,87,0
-DoubleTree by Hilton Hotel Kamloops,Kamloops,BC,105,0
-Hampton Inn & Suites by Hilton Langley-Surrey,Surrey,BC,132,1
-Hampton Inn by Hilton Chilliwack,Chilliwack,BC,100,0
-DoubleTree by Hilton Hotel & Suites Victoria,Victoria,BC,145,0
-Hampton Inn & Suites by Hilton Kelowna Airport,Kelowna,BC,144,1
-Hilton Winnipeg Airport Suites,Winnipeg,MB,122,1
-Hampton Inn by Hilton Winnipeg Airport/Polo Park,Winnipeg,MB,115,1
-"Homewood Suites by Hilton® Winnipeg Airport-Polo Park, MB",Winnipeg,MB,102,0
-Hilton Garden Inn Winnipeg South,Winnipeg,MB,115,1
+Hampton Inn by Hilton Kamloops,Kamloops,BC,92,1
+DoubleTree by Hilton Hotel Kamloops,Kamloops,BC,105,1
+Hampton Inn & Suites by Hilton Langley-Surrey,Surrey,BC,132,0
+Hampton Inn by Hilton Chilliwack,Chilliwack,BC,100,1
+DoubleTree by Hilton Hotel & Suites Victoria,Victoria,BC,145,1
+Hampton Inn & Suites by Hilton Kelowna Airport,Kelowna,BC,144,0
+Hilton Winnipeg Airport Suites,Winnipeg,MB,122,0
+Hampton Inn by Hilton Winnipeg Airport/Polo Park,Winnipeg,MB,115,0
+Hilton Garden Inn Winnipeg South,Winnipeg,MB,115,0
 Hilton Garden Inn Fredericton,Fredericton,NB,122,0
-Hampton Inn & Suites by Hilton Fredericton,Fredericton,NB,136,1
+Hampton Inn & Suites by Hilton Fredericton,Fredericton,NB,136,0
 Hampton Inn & Suites by Hilton Moncton,Moncton,NB,125,0
 "Canvas Moncton, Tapestry Collection by Hilton",Moncton,NB,107,0
 Hampton Inn & Suites by Hilton Saint John,Saint John,NB,111,1
-Hilton Saint John,Saint John,NB,120,1
+Hilton Saint John,Saint John,NB,120,0
 DoubleTree by Hilton Halifax Dartmouth,Dartmouth,NS,116,1
-Hampton Inn by Hilton Halifax Downtown,Halifax,NS,115,1
-"Homewood Suites by Hilton® Halifax-Downtown, Nova Scotia, Canada",Halifax,NS,116,0
-The Hollis Halifax - a DoubleTree Suites by Hilton Hotel,Halifax,NS,130,1
-Hampton Inn & Suites by Hilton Halifax - Dartmouth,Dartmouth,NS,127,1
-Hilton Garden Inn Halifax Airport,Enfield,NS,165,1
-Hampton Inn & Suites by Hilton Truro,Millbrook,NS,97,1
-Hampton Inn by Hilton Sydney,Membertou,NS,121,1
+Hampton Inn by Hilton Halifax Downtown,Halifax,NS,107,1
+The Hollis Halifax - a DoubleTree Suites by Hilton Hotel,Halifax,NS,130,0
+Hampton Inn & Suites by Hilton Halifax - Dartmouth,Dartmouth,NS,127,0
+Hilton Garden Inn Halifax Airport,Enfield,NS,157,1
+Hampton Inn & Suites by Hilton Truro,Millbrook,NS,97,0
+Hampton Inn by Hilton Sydney,Membertou,NS,121,0
 "Hampton Inn by Hilton Elliot Lake, Ontario, Canada",Elliot Lake,ON,133,1
 Hampton Inn & Suites by Hilton Barrie,Barrie,ON,112,0
-Hampton Inn & Suites by Hilton Bolton,Bolton,ON,125,1
+Hampton Inn & Suites by Hilton Bolton,Bolton,ON,125,0
 Hampton Inn by Hilton Brampton Toronto,Brampton,ON,102,0
-Hampton Inn & Suites by Hilton Guelph,Guelph,ON,149,1
-Hilton Garden Inn Toronto/Brampton,Brampton,ON,122,1
-Home2 Suites by Hilton Toronto Brampton,Brampton,ON,115,0
-Hilton Garden Inn Toronto Brampton West,Brampton,ON,109,0
-DoubleTree by Hilton Kitchener,Kitchener,ON,96,0
-Hilton Garden Inn Toronto/Ajax,Ajax,ON,131,0
-"Homewood Suites by Hilton® Ajax, Ontario, Canada",Ajax,ON,140,0
+Hampton Inn & Suites by Hilton Guelph,Guelph,ON,149,0
+Hilton Garden Inn Toronto/Brampton,Brampton,ON,122,0
+Home2 Suites by Hilton Toronto Brampton,Brampton,ON,122,0
+Hilton Garden Inn Toronto Brampton West,Brampton,ON,109,1
+DoubleTree by Hilton Kitchener,Kitchener,ON,96,1
+Hilton Garden Inn Toronto/Ajax,Ajax,ON,122,0
 Hilton Garden Inn Kitchener/Cambridge,Cambridge,ON,113,1
 "Homewood Suites by Hilton Cambridge-Waterloo, Ontario",Cambridge,ON,149,1
 Homewood Suites by Hilton Ottawa Kanata,Kanata,ON,157,1
-Homewood Suites by Hilton Burlington,Burlington,ON,140,1
+Homewood Suites by Hilton Burlington,Burlington,ON,140,0
 Hilton Garden Inn Toronto/Burlington,Burlington,ON,119,1
 Hampton Inn & Suites by Hilton Brantford Conference Centre ON,Brantford,ON,94,1
-Home2 Suites by Hilton Brantford,Brantford,ON,102,1
-"Homewood Suites by Hilton Hamilton, Ontario, Canada",Hamilton,ON,140,0
-Hampton Inn & Suites Charlottetown,Charlottetown,PE,120,0
+Home2 Suites by Hilton Brantford,Brantford,ON,102,0
+"Homewood Suites by Hilton Hamilton, Ontario, Canada",Hamilton,ON,140,1
+Hampton Inn & Suites Charlottetown,Charlottetown,PE,120,1
 DoubleTree by Hilton Quebec Resort,Quebec City,QC,130,1
 Hampton Inn & Suites by Hilton Beauport Quebec,Beauport,QC,100,0
-Hampton Inn & Suites by Hilton Quebec City /Saint-Romuald,Lévis,QC,96,0
-Homewood Suites by Hilton Mont-Tremblant Resort,Mt. Tremblant,QC,207,1
-Hilton Montreal/Laval,Laval,QC,154,0
-Hampton Inn & Suites by Hilton Laval,Laval,QC,119,1
+Homewood Suites by Hilton Mont-Tremblant Resort,Mt. Tremblant,QC,207,0
+Hilton Montreal/Laval,Laval,QC,154,1
+Hampton Inn & Suites by Hilton Laval,Laval,QC,119,0
 Hilton Garden Inn Montreal Centre-Ville,Montreal,QC,124,1
-DoubleTree by Hilton Montreal,Montreal,QC,166,0
-Embassy Suites by Hilton Montreal,Montreal,QC,150,0
-Home2 Suites by Hilton Montreal Dorval,Dorval,QC,130,0
+DoubleTree by Hilton Montreal,Montreal,QC,166,1
+Embassy Suites by Hilton Montreal,Montreal,QC,150,1
+Home2 Suites by Hilton Montreal Dorval,Dorval,QC,130,1
 Hampton Inn & Suites by Hilton Montreal-Dorval,Dorval,QC,136,1
-Hilton Garden Inn Montreal Airport,Montreal,QC,128,0
+Hilton Garden Inn Montreal Airport,Montreal,QC,128,1
 Embassy Suites by Hilton Montreal Airport,Pointe-Claire,QC,135,0
-DoubleTree by Hilton Montreal Airport,Dorval,QC,115,0
-Hilton Lac-Leamy,Gatineau-Ottawa,QC,300,1
+DoubleTree by Hilton Montreal Airport,Dorval,QC,115,1
+Hilton Lac-Leamy,Gatineau-Ottawa,QC,300,0
 DoubleTree by Hilton Hotel Gatineau - Ottawa,Gatineau,QC,134,1
-Hampton Inn & Suites by Hilton Saskatoon Airport,Saskatoon,SK,113,1
+Hampton Inn & Suites by Hilton Saskatoon Airport,Saskatoon,SK,113,0
 Hilton Garden Inn Saskatoon Downtown,Saskatoon,SK,112,0
-Hampton Inn Saskatoon South,Saskatoon,SK,104,0
-DoubleTree by Hilton Hotel & Conference Centre Regina,Regina,SK,102,0
+Hampton Inn Saskatoon South,Saskatoon,SK,104,1
+DoubleTree by Hilton Hotel & Conference Centre Regina,Regina,SK,102,1
 Hampton Inn & Suites by Hilton Regina East Gate,Regina,SK,113,0
 Hilton Garden Inn Neuquen,Neuquen,Argentina,108,0
 Hilton Pilar,Pilar,Argentina,129,1
-"Anselmo Buenos Aires, Curio Collection by Hilton",Buenos Aires,Argentina,114,0
-Hilton Buenos Aires,Buenos Aires,Argentina,163,0
-Hampton by Hilton Bariloche,Bariloche,Argentina,88,1
-Hilton Garden Inn Tucuman,San Miguel de Tucuman,Argentina,4537,0
+"Anselmo Buenos Aires, Curio Collection by Hilton",Buenos Aires,Argentina,114,1
+Hilton Buenos Aires,Buenos Aires,Argentina,163,1
+Hampton by Hilton Bariloche,Bariloche,Argentina,83,1
+Hilton Garden Inn Tucuman,San Miguel de Tucuman,Argentina,4537,1
 "Hampton by Hilton Santa Cruz/Equipetrol, Bolivia",Santa Cruz de la Sier,Bolivia,82,1
-Hilton Garden Inn Goiania,Goiania,Brazil,188,1
-Hilton Garden Inn Belo Horizonte,Belo Horizonte,Brazil,241,1
-Hampton by Hilton Guarulhos Airport,Guarulhos,Brazil,254,1
+Hilton Garden Inn Goiania,Goiania,Brazil,188,0
+Hilton Garden Inn Belo Horizonte,Belo Horizonte,Brazil,241,0
+Hampton by Hilton Guarulhos Airport,Guarulhos,Brazil,254,0
 Hotel Itaim Sao Paulo by Atlantica,Sao Paulo,Brazil,281,1
 Hilton Sao Paulo Morumbi,Sao Paulo,Brazil,566,1
-Hilton Garden Inn Santo Andre,Santo Andre,Brazil,158,1
+Hilton Garden Inn Santo Andre,Santo Andre,Brazil,158,0
 Hilton Barra Rio de Janeiro,Rio de Janeiro,Brazil,447,1
-Hilton Rio de Janeiro Copacabana,Rio de Janeiro,Brazil,732,1
-Hilton Garden Inn Itajaí,Itajaí,Brazil,289,1
-Hilton Garden Inn Santiago Airport,Santiago,Chile,93,1
+Hilton Rio de Janeiro Copacabana,Rio de Janeiro,Brazil,763,0
+Hilton Garden Inn Santiago Airport,Santiago,Chile,93,0
 DoubleTree by Hilton Hotel Santiago - Vitacura,Santiago,Chile,83,1
-Hampton by Hilton Antofagasta,Antofagasta,Chile,53,0
-Hilton Garden Inn Iquique,Iquique,Chile,91,0
-DoubleTree by Hilton Bogota Salitre AR,Bogota,Colombia,72,0
-Hilton Garden Inn Bogota Airport,Bogota,Colombia,54,1
+Hampton by Hilton Antofagasta,Antofagasta,Chile,55,1
+Hilton Garden Inn Iquique,Iquique,Chile,87,0
+DoubleTree by Hilton Bogota Salitre AR,Bogota,Colombia,72,1
+Hilton Garden Inn Bogota Airport,Bogota,Colombia,54,0
 Hampton by Hilton Bogota Airport,Bogota,Colombia,157437,1
-Hilton Bogota Corferias,Bogota,Colombia,95,0
-Embassy Suites by Hilton Bogotá Rosales,Bogota,Colombia,79,1
-Hilton Bogota,Bogota,Colombia,135,0
-DoubleTree by Hilton Hotel Bogotá - Calle 100,Bogota,Colombia,70,1
-DoubleTree by Hilton Hotel Bogotá - Parque 93,Bogota,Colombia,79,1
-Hampton by Hilton Bogotá - Usaquén,Bogota,Colombia,179418,0
+Hilton Bogota Corferias,Bogota,Colombia,95,1
+Hilton Bogota,Bogota,Colombia,135,1
 Hampton by Hilton Medellin,Medellin,Colombia,179418,1
 "Hampton by Hilton Cali, Colombia",Cali,Colombia,154128,0
-Hampton by Hilton Bucaramanga,Bucaramanga,Colombia,157878,1
-Hampton by Hilton Cucuta,Cucuta,Colombia,141120,0
-Hilton Cartagena Hotel,Cartagena,Colombia,134,0
+Hampton by Hilton Bucaramanga,Bucaramanga,Colombia,157878,0
+Hampton by Hilton Cucuta,Cucuta,Colombia,141120,1
+Hilton Cartagena Hotel,Cartagena,Colombia,134,1
 Hampton by Hilton Cartagena,Cartagena,Colombia,240610,1
-Conrad Cartagena,Cartagena,Colombia,158,1
-Hampton by Hilton Barranquilla,Barranquilla,Colombia,152370,1
-Hilton Garden Inn Barranquilla,Barranquilla,Colombia,245328,0
-Hilton Garden Inn Santa Marta,Santa Marta,Colombia,202664,1
+Conrad Cartagena,Cartagena,Colombia,158,0
+Hampton by Hilton Barranquilla,Barranquilla,Colombia,152370,0
+Hilton Garden Inn Barranquilla,Barranquilla,Colombia,157373,0
+Hilton Garden Inn Santa Marta,Santa Marta,Colombia,202664,0
 Hilton Colon Quito,Quito,Ecuador,106,1
 Hilton Colon Guayaquil,Guayaquil,Ecuador,100,0
-Hilton Garden Inn Lima Surco,Lima,Peru,79,1
-Hampton by Hilton Lima San Isidro,Lima,Peru,71,1
-El Pardo DoubleTree by Hilton Hotel,Lima,Peru,104,0
+Hilton Garden Inn Lima Surco,Lima,Peru,79,0
+Hampton by Hilton Lima San Isidro,Lima,Peru,71,0
+El Pardo DoubleTree by Hilton Hotel,Lima,Peru,104,1
 Hilton Lima Miraflores,Lima,Peru,168,0
-DoubleTree Resort by Hilton Hotel Paracas - Peru,Paracas,Peru,157,1
-Hilton Garden Inn Cusco,Cusco,Peru,86,1
+DoubleTree Resort by Hilton Hotel Paracas - Peru,Paracas,Peru,157,0
+Hilton Garden Inn Cusco,Cusco,Peru,86,0
 DoubleTree by Hilton Hotel Iquitos,Iquitos,Peru,84,0
-Hampton by Hilton Montevideo Carrasco,Canelones,Uruguay,78,1
-Hilton Garden Inn Montevideo,Montevideo,Uruguay,97,1
+Hampton by Hilton Montevideo Carrasco,Canelones,Uruguay,78,0
+Hilton Garden Inn Montevideo,Montevideo,Uruguay,97,0
 "SORO Montevideo, Curio Collection by Hilton",Montevideo,Uruguay,108,0
