@@ -23,6 +23,7 @@ PRICE = [x for x in list(df["Price"])]
 # all are set to None as default because we will likely have incomplete data
 # you'll need to check "if state:", "if price:" etc. before using each one
 def findHotels(city=None, state=None, price=None, petFriendly=None, price_variance=30):
+    # add pandas filtering -> super effective
     # clean parameters to be accepted w/ fuzzywuzzy
     s = process.extract(state, STATE_NAMES, limit=1)
     p = []
@@ -45,7 +46,7 @@ def findHotels(city=None, state=None, price=None, petFriendly=None, price_varian
     petOptions = []
     # process relevant data
     for i in range(len(h)):
-      if(p[i] < max and p[i] > min and pf[i] == petFriendly):      # both conditions satisfied!
+      if(int(p[i]) < max and int(p[i]) > min and pf[i] == petFriendly):      # both conditions satisfied!
         bestOptions.append({"hotel": h[i], "city":c[i], "price": p[i], "pets-allowed":pf[i]})
       elif(int(p[i]) > min and int(p[i]) < max):                # only good price
         priceOptions.append({"hotel": h[i], "city":c[i], "price": p[i], "pets-allowed":pf[i]})
