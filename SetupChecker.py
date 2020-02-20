@@ -11,3 +11,5 @@ try:
 except ImportError:
     print("Uh oh! It looks like you didn't install the required modules. Run the following command to install them.\n\n\t\033[1mpip -r requirements.txt\033[0m")
     sys.exit(0)
+
+print("Everything looks great!")
