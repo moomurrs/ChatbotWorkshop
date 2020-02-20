@@ -42,18 +42,19 @@ def respond(message):
         if word in HotelData.STATE_NAMES:
             USER_INPUT["state"] = word
 
-    bot_response = "I understood that you're looking for a hotel that "
-    understood_attributes = []
+    if USER_INPUT["price"] is None:
+        return "What price point are you looking for?"
+    if USER_INPUT["city"] is None:
+        return "In what city are you looking for a hotel?"
+    if USER_INPUT["state"] is None:
+        return "In what state are you looking for a hotel?"
 
-    if USER_INPUT["price"]:
-        understood_attributes.append("costs around {} dollars".format(USER_INPUT["price"]))
-    if USER_INPUT["city"]:
-        understood_attributes.append("is in {}".format(USER_INPUT["city"].title()))
-    if USER_INPUT["state"]:
-        understood_attributes.append("is in {}".format(USER_INPUT["state"].upper()))
+    results = HotelData.findHotels(**USER_INPUT)
 
-    bot_response += ", ".join(understood_attributes) + "."
-    # TODO: Find a way to replace just the last ', ' with ', and '
+    bot_response = "I found {} hotels matching your criteria!".format(len(results))
+    print(results)
+    if len(results) > 0:
+        bot_response += "I'd recommend the {name}, in {city}, {state} which costs ${price}/night."
 
     return bot_response
 
