@@ -13,7 +13,7 @@ STARTUP_MESSAGE = """
   Copyright CS Club @ IU, 2020
 +================================+
 """  # message to be printed at the begining of script execution
-PRICE_UNIT_KEYWORDS = ["dollars"]
+
 
 # global variables for use later
 USER_INPUT = {"price": None, "city": None, "state": None, "pet_friendly": None}
@@ -29,7 +29,9 @@ def respond(message):
     # change all spaces to single spaces
     message = " ".join(message.split())
 
+    # this is the bag-of-words we discussed earlier
     message_words = message.split()
+
     for word in message_words:
         try:
             USER_INPUT["price"] = int(word)
