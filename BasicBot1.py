@@ -18,7 +18,15 @@ def respond(message):
     """Given a user's input message, perform appropriate decision-making to return an appropriate response."""
     # TODO: Implement this function
 
-    return message
+    responses = {"hello there": ["General Kenobi", "How are you?"], "*":["I donlt know how to respond to this"]}
+
+    if message in responses:
+         return random.choice(responses[message])
+    else:
+        return random.choice(responses["*"])
+    
+
+    return random.choice(responses[message])
 
 
 def main():

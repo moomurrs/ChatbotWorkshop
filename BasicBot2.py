@@ -17,6 +17,12 @@ STARTUP_MESSAGE = """
 def respond(message):
     """Given a user's input message, perform appropriate decision-making to return an appropriate response."""
 
+    message = message.lower()
+    # filter out punctuation
+    message = "".join([ m for m in message if m not in string.punctuation])
+    # divide each word by spaces
+    message = " ".join(message.split())
+
     # ignore the fmt comments, black formatter doesn't like the way i structured this dict
     # fmt: off
     responses = {

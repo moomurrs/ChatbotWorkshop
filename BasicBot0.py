@@ -15,13 +15,18 @@ STARTUP_MESSAGE = """
 
 
 def respond(message):
-    """Given a user's input message, perform appropriate decision-making to return an appropriate response."""
-    # TODO: Implement this function
+    return message
 
 
 def main():
-    """Main request-response loop"""
-    # TODO: Implement this function
+    while True:
+        message = input(USER_TEMPLATE)
+        response = respond(message)
+
+        if "quit" in message.lower():
+            print("Exiting, bye!")
+            break
+        print(BOT_TEMPLATE + response + "\n")
 
 
 # code in this conditional will run if and only if the script is being run directly
