@@ -2,7 +2,7 @@
 # module imports
 
 import csv
-
+import os
 import pandas as pd
 
 from fuzzywuzzy import fuzz, process
@@ -15,10 +15,9 @@ from fuzzywuzzy import fuzz, process
 +================================+
 """
 pd.options.mode.chained_assignment = None
-df = pd.read_csv("hotels.csv")
+df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "hotels.csv"))
 CITY_NAMES = [x.lower() for x in list(df["City"])]
 STATE_NAMES = [x.lower() for x in list(df["State"])]
-PRICE = [x for x in list(df["Price"])]
 
 # all are set to None as default because we will likely have incomplete data
 # you'll need to check "if state:", "if price:" etc. before using each one

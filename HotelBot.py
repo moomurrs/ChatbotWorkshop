@@ -32,6 +32,7 @@ def respond(message):
     # this is the bag-of-words we discussed earlier
     message_words = message.split()
 
+    # extract what data we can from our bag of words, matching words to our known words
     for word in message_words:
         try:
             USER_INPUT["price"] = int(word)
@@ -44,6 +45,7 @@ def respond(message):
         if word in HotelData.STATE_NAMES:
             USER_INPUT["state"] = word
 
+    # if we're missing data, let's ask the user for it
     if USER_INPUT["price"] is None:
         return "What price point are you looking for?"
     if USER_INPUT["city"] is None:
@@ -51,12 +53,15 @@ def respond(message):
     if USER_INPUT["state"] is None:
         return "In what state are you looking for a hotel?"
 
+    #
     results = HotelData.findHotels(**USER_INPUT)
 
     bot_response = "I found {} hotels matching your criteria!".format(len(results))
     print(results)
     if len(results) > 0:
-        bot_response += "I'd recommend the {name}, in {city}, {state} which costs ${price}/night."
+        bot_response += "I'd recommend the {name}, in {city}, {state} which costs ${price}/night.".format(
+            name=results[0]["Name"], city=results[0]["City"], state=results[0]["State"], price=results[0]["Price"]
+        )
 
     return bot_response
 
