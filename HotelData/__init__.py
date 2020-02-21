@@ -55,7 +55,7 @@ def OldfindHotels(city=None, state=None, price=None, pet_friendly=None, price_va
 
 
 def findHotels(city=None, state=None, price=None, pet_friendly=None, price_variance=30):
-    q = df.loc[(df["City"] == city) & (df["State"] == state.upper())]
+    q = df.loc[(df["City"] == city.title()) & (df["State"] == state.upper())]
     q["priceDiff"] = abs(df["Price"] - price)
     q_sorted = q.sort_values("priceDiff", axis=0, ascending=1)
     out = q_sorted.to_dict("records")

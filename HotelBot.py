@@ -53,13 +53,11 @@ def respond(message):
     if USER_INPUT["state"] is None:
         return "In what state are you looking for a hotel?"
 
-    #
-    results = HotelData.findHotels(**USER_INPUT)
+    results = HotelData.findHotels(city=USER_INPUT["city"], state=USER_INPUT["state"], price=USER_INPUT["price"])
 
     bot_response = "I found {} hotels matching your criteria!".format(len(results))
-    print(results)
     if len(results) > 0:
-        bot_response += "I'd recommend the {name}, in {city}, {state} which costs ${price}/night.".format(
+        bot_response += " I'd recommend the {name}, in {city}, {state} which costs ${price}/night.".format(
             name=results[0]["Name"], city=results[0]["City"], state=results[0]["State"], price=results[0]["Price"]
         )
 
